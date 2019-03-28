@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BioSiting Report Error</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <script type="text/javascript" src="jquery.js"></script>
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"> 
+  </head>
+  <body>
+
+    <script>function getParameterByName(name, url) {
+          if (!url) url = window.location.href;
+          name = name.replace(/[\[\]]/g, "\\$&");
+          var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+              results = regex.exec(url);
+          if (!results) return null;
+          if (!results[2]) return '';
+          return decodeURIComponent(results[2].replace(/\+/g, " "));
+      }
+</script>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+        <div id="title">Please Submit the Issue</div>
+      <form  class="form" method="POST" action="https://formspree.io/okavvada@gmail.com">
+        <input class="input" type="name" name="name" placeholder="Your name"></br>
+          <input class="input" type="email" name="email" placeholder="Your email"></br>
+          <textarea class="input" name="message" rows="5" placeholder="Describe issue"></textarea>
+          <input type="hidden" id='name' name="point_name" value=''>
+          <input type="hidden" id='type' name="facility" value=''>
+          <input type="hidden" id='id' name="id" value=''>
+          <script type="text/javascript">var elem_name = document.getElementById("name");
+                                        var elem_type = document.getElementById("type");
+                                        var elem_id = document.getElementById("id");
+                                        url = window.location.href;
+                                        type = getParameterByName('type', url)
+                                        id = getParameterByName('id', url)
+                                        name = getParameterByName('name', url)
+                                        elem_name.value = name;
+                                        elem_type.value = type;
+                                        elem_id.value = id;
+                                    </script>
+          <button id="Send" type="submit">Send</button>
+        </form>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="functions.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.1/jszip.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.0.2/jszip-utils.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+  </body>
+</html>

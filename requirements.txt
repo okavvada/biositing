@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+Scipy
+sklearn
+geojson
+gunicorn
+geopandas
+Sklearn
+Shapely

@@ -1,0 +1,438 @@
+#map {
+  height: 100%;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#legend {
+  position: relative;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid #000;
+  font-size: 13px;
+  }
+
+.legend-swatch {
+  border: 1px solid;
+    float: left;
+    height: 12px;
+    margin-right: 10px;
+    width: 20px
+}
+
+#results {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  padding: 10px;
+  margin-right: 10px;
+  border: 3px solid #000;
+  font-size: 13px;
+      }
+
+#download {
+  margin-top: 10px;
+  display: none;
+  background: #e8e8e8;
+  border-radius: 5px;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  border: 1px solid #a2a2a5;
+  cursor: pointer;
+}
+
+#download:hover {
+  background-color: #ccc;
+}
+
+#pac-input {
+  background-color: #fff;
+  font-size: 13px;
+  font-weight: 300;
+  margin-left: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 200px;
+  margin-top: 12px;
+      }
+
+#pac-input:focus {
+  border-color: #4d90fe;
+      }
+
+#SelectCounty{
+  position: absolute;
+  background-color: #fff;
+  border-radius: 8px;
+  font-size: 14px;
+  width: 170px;
+  padding: 6px;
+  top: 5px;
+  left: 80%;
+  border: 1px solid #000;
+}
+
+#download-all {
+  background-color: #e8e8e8;
+  border-radius: 5px;
+  font-size: 13px;
+  width: 180px;
+  padding: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+  border: 1px solid #a2a2a5;
+  }
+
+#download-all:hover {
+  background-color: #ccc;
+}
+
+#password{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  background-color: #fff;
+  width: 150px;
+  border: 1px solid #a2a2a5;
+  padding: 20px;
+  display: none;
+}
+
+#password_poly{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  background-color: #fff;
+  width: 150px;
+  border: 1px solid #a2a2a5;
+  padding: 20px;
+  display: none;
+}
+
+#password_thermal{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  background-color: #fff;
+  width: 150px;
+  border: 1px solid #a2a2a5;
+  padding: 20px;
+  display: none;
+}
+
+#buttonZoom {
+  position: absolute;
+  left: 97%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+#yearSelection{
+  margin-top:10px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#EnergySelection{
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#PotentialSelection{
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#VizSelection{
+  position: absolute;
+  top: 45px;
+  left: 12px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#MoistureSelection{
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#ContentSelection{
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+  }
+
+#buffer{
+  position: absolute;
+  top: 75px;
+  left: 12px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#buffer_radius{
+  width: 70px;
+}
+
+#county{
+  position: fixed;
+  top: 5px;
+  left: 40%;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 3px solid #800101;
+  font-size: 14px;
+}
+
+#thermal{
+  position: fixed;
+  top: 5px;
+  left: 40%;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 2px solid #fb1c1c;
+  font-size: 14px;
+}
+
+#info{
+  position: absolute;
+  top: 79.5%;
+  left: 12px;
+  padding: 2px;
+  border-radius: 50px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+#info:hover {
+  background-color: #ccc;
+}
+
+#myInfo{
+  position: absolute;
+  top: 69%;
+  left: 12px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #000;
+  background-color: #fff;
+  font-size: 13px;
+}
+
+#county_total{
+  width: 57px;
+  border: 0;
+  background-color: #fff;
+}
+
+#county_total_wt{
+  width: 62px;
+  border: 0;
+  background-color: #fff;
+}
+
+#thermal_total{
+  width: 50px;
+  border: 0;
+  background-color: #fff;
+}
+
+#report{
+  position: absolute;
+  top: 91%;
+  left: 12px;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid #000;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+#report:hover{
+  background-color: #ccc;
+}
+
+#contact{
+  position: absolute;
+  top: 93%;
+  left: 83%;
+  padding: 5px;
+  background-color: #f9f9f9;
+  opacity: 0.8;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#lab_image{
+  position: absolute;
+  top: 85%;
+  left: 89%;
+}
+
+#report-location{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 2px solid #ce1e00;
+  font-size: 18px;
+  color: #ce1e00;
+}
+
+.input{
+  padding: 5px;
+  margin: 5px;
+  font-size: 15px;
+  width: 250px;
+}
+
+.form{
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  padding: 20px;
+  width: 350px;
+  border: 2px solid #046f87;
+}
+
+#title{
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  padding: 22px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  background-color: #046f87;
+  color: #fff;
+  width: 350px;
+  text-align: center;
+}
+
+#Send:hover {
+  background-color: #046f87;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.login:hover {
+  background-color: #046f87;
+  color: #fff;
+  border-radius: 3px;
+}
+
+#guide{
+  position: absolute;
+  top: 85.5%;
+  left: 12px;
+  padding: 2px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  border: 1px solid #00087a;
+  width: 115px;
+  cursor: pointer;
+  color: #00087a;
+  background-color: #fff;
+  font-size: 12px;
+}
+
+#guide:hover {
+  background-color: #ccc;
+}
+
+.accordion {
+  position: absolute;
+  top: 110px;
+  left: 10px;
+  background-color: #5f0404;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 5px;
+  width: 250px;
+  text-align: left;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.accordion:hover {
+  background-color: #a22e2e;;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  position: absolute;
+  top: 138px;
+  left: 10px;
+  padding: 0px;
+  background-color: white;
+  outline: 1px solid #ccc;
+  border-radius: 5px;
+  width: 250px;
+  height: 160px;
+  display: none;
+}
+
+
+form {
+  padding-bottom: .2em;
+}
+
+.tooltip-wrap {
+  position: relative;
+}
+
+.tooltip-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  padding: 0.2em;
+  color: #000;
+  border: 1px solid #000;
+  font-size: 14px;
+  
+}
+
+.tooltip-wrap:hover .tooltip-content {
+  display: block;
+  border-radius: 2px;
+  position: absolute;
+}
+
