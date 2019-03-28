@@ -1,0 +1,9 @@
+,geometry,NAME,OBJECTID,City,Name,County,Equivalent Generation,Feedstock,DayLoad,DayLoadBDT,Type
+0,POINT (-121.742172 38.544678),Davis,8,Davis,CleanWorld- UC Davis Renewable Energy Anaerobic Digester,Yolo,8731.80425789,M gn fd,49.7087671233,10.9359287671,W2E_pts
+1,POINT (-121.495979 38.581543),Sacramento,3,Sacramento,Clean World- American River Packaging,Sacramento,1593.55427706,fd ot cbd,9.07185,1.995807,W2E_pts
+2,POINT (-121.495979 38.581543),Sacramento,5,Sacramento,CleanWorld- Sacramento Digester,0,17463.6085158,gn fd,99.4175342466,21.8718575342,W2E_pts
+3,POINT (-121.897385 37.334915),San Jose,6,San Jose,Zero Waste Energy Development,Santa Clara,36485.6470536,gn fd,223.689452055,49.2116794521,W2E_pts
+4,POINT (-121.804283 36.684151),Marina,2,Marina,Monterey Zero Waste Energy,Monterey,2026.98039187,gn fd,12.4271917808,2.73398219178,W2E_pts
+5,POINT (-117.690666 34.012173),Chino,1,Chino,Inland Empire Utilities Agency-Environ,San Bernardino,93082.8931212,fd  Mdy,639.565425,140.7043935,W2E_pts
+6,POINT (-118.221871 33.896069),Compton,4,Compton,Kroger/Ralphs - Compton Distribution Center,Los Angeles,19895.3040772,fd,136.699109589,30.0738041096,W2E_pts
+7,POINT (-118.283745 33.831265),Carson,7,Carson,Los Angeles Sanitation Districts AD Pilot,Los Angeles,11090.727691,fd bsld,76.20354,16.7647788,W2E_pts

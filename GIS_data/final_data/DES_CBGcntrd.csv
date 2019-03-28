@@ -1,0 +1,49 @@
+,geometry,FID,CBGID,Name,System,OBJECTID,City,State,Type,PrimaryFue,SecFuel,USETYPE,CapSt,CapHW,CapCW,CHPCGCap,ExcessC,ExcessH,TYPE
+0,POINT (-117.0733237534483 32.77493974917809),0,758,San Diego State University, ,1,San Diego,CA,DES_CBG_pts,NG, ,College,34.8,0.0,14.0,14.3,0,0,DES_CBG
+1,POINT (-122.3090676174888 37.81904412065351),1,1892,East Bay Municipal Water District, ,2,Oakland,CA,DES_CBG_pts, , ,Downtown/Utility,0.0,0.0,0.63,6.0,0,0,DES_CBG
+2,POINT (-118.124330427232 34.14299698127638),2,2392,California Institute Of Technology,Cal Tech -Central Utility Plant,3,Pasadena,CA,DES_CBG_pts,NG,Diesel Oil Backup,College,75.0,0.0,6.088,12.56,0,0,DES_CBG
+3,POINT (-121.8824543853295 37.33681907231552),3,2860,International Power Technology,San Jose State University,4,San Jose,CA,DES_CBG_pts,NG, ,College,197.475,0.0,14.0,6.0,0,0,DES_CBG
+4,POINT (-119.7676946181517 36.83376063854895),4,2946,Saint Agnes Medical Center,Saint Agnes Medical Center,5,Fresno,CA,DES_CBG_pts,NG, ,Healthcare,11.919,0.0,10.5,7.0,0,0,DES_CBG
+5,POINT (-117.1857496899207 33.76235968294902),5,3605,Eastern Municipal Water District, ,6,Perris,CA,DES_CBG_pts, , ,Downtown/Utility,0.0,879.0,1.575,5.4,0,0,DES_CBG
+6,POINT (-122.3827954092962 37.62160734043144),6,3978,San Francisco International Airport, ,7,San Francisco,CA,DES_CBG_pts,NG, ,Airport,45.0,0.0,63.0,0.0,0,0,DES_CBG
+7,POINT (-121.4924678902325 38.58431529833884),7,4727,State of California Franchise Tax Board, ,8,Sacramento,CA,DES_CBG_pts, , ,Gov,8.79,0.0,15.4,0.0,0,0,DES_CBG
+8,POINT (-117.1535136950916 32.79433721957673),8,5404,Childrens Hospital And Health Center,Childrens Hospital And Health Center,9,San Diego,CA,DES_CBG_pts,NG,O-Propane Backup,Healthcare,5.47,13.185,4.62,6.1,0,0,DES_CBG
+9,POINT (-117.1698807182801 32.71609532360631),9,5842,NRG Energy Center - San Diego,San Diego Power & Cooling Company/Energy Factors,10,San Diego,CA,DES_CBG_pts,NG,Purchased Electricity,Downtown/Utility,3.253,0.0,25.55,1.5,0,0,DES_CBG
+10,POINT (-117.1706758444588 32.72492816550569),10,7553,JMI Realty,East Village District Plant,11,San Diego,CA,DES_CBG_pts, , ,Downtown/ Utility,0.0,0.0,42.7,0.0,0,0,DES_CBG
+11,POINT (-121.4228233853561 38.55993659344809),11,8079,California State University - Sacramento, ,12,Sacramento,CA,DES_CBG_pts, , ,College,175.386,0.0,68.206,0.0,0,0,DES_CBG
+12,POINT (-120.6603203957827 35.30029170914381),12,8821,California Polytechnic State University, ,13,San Luis Obispo,CA,DES_CBG_pts,NG, ,College,18.0,0.0,4.2,0.35,0,0,DES_CBG
+13,POINT (-117.9308906433465 33.62583919098646),13,9096,Hoag Hospital,Hoag Hospital,14,Newport Beach,CA,DES_CBG_pts,NG, ,Healthcare,62.1,0.0,16.8,4.5,0,0,DES_CBG
+14,POINT (-116.1380344260617 34.45921011639653),14,9263,U.S. Marine Corps,Marine Air Ground Task Force Training Command,15,Twentynine Palms,CA,DES_CBG_pts,NG,Diesel,Military,0.0,10.255,27.09,7.2,0,0,DES_CBG
+15,POINT (-117.8474419512824 33.64593053970305),15,9513,University of California - Irvine, ,16,Irvine,CA,DES_CBG_pts,NG, ,College,159.634,0.0,62.08,0.0,0,0,DES_CBG
+16,POINT (-118.0153181727681 33.90792403347248),16,10158,Biola University, ,17,La Mirada,CA,DES_CBG_pts,NG, ,College,57.9,0.0,6.3,2.2,0,0,DES_CBG
+17,POINT (-122.1780671493091 37.43080863867979),17,10342,Cardinal Cogen,Stanford University,18,Stanford,CA,DES_CBG_pts,NG,Diesel Oil Backup,College,120.0,0.0,40.6,49.9,0,0,DES_CBG
+18,POINT (-116.7748519754816 33.92032076709209),18,10582,EMCOR - Morongo Casino,Morongo Cogen Facility,19,Cabazon,CA,DES_CBG_pts,NG,None,Downtown/Utility,0.0,17.58,12.6,8.2,0,0,DES_CBG
+19,POINT (-121.5562237282262 38.70430260931183),19,10916,Sacramento International Airport, ,20,Sacramento,CA,DES_CBG_pts,NG, ,Airport,0.0,0.0,0.7,1.0,0,0,DES_CBG
+20,POINT (-117.3113682727547 34.08869164788613),20,11254,San Bernadino Valley College-North, ,21,San Bernardino,CA,DES_CBG_pts, , ,College,31.271,0.0,12.161,0.0,0,0,DES_CBG
+21,POINT (-118.2082355356957 34.12892702970878),21,11620,Occidental College, ,22,Los Angeles,CA,DES_CBG_pts,NG, ,College,2.91,0.0,3.5,0.0,0,0,DES_CBG
+22,POINT (-117.1650464577381 34.06082940655759),22,11655,University of Redlands, ,23,Redlands,CA,DES_CBG_pts,NG, ,College,0.0,2.745,12.6,1.5,0,0,DES_CBG
+23,POINT (-121.4370007590121 38.57087889102888),23,11756,Sutter Medical Center of Sactamento, ,24,Sacramento,CA,DES_CBG_pts, , ,Healthcare,1.492,0.0,17.5,0.0,0,0,DES_CBG
+24,POINT (-120.6583465665505 40.41445802652631),24,12076,EMCOR - High Sierra Cogen,High Sierra Cogen,25,Susanville,CA,DES_CBG_pts,NG,None,Gov,0.0,5.86,0.0,6.0,0,0,DES_CBG
+25,POINT (-122.4797743650366 37.72634111432218),25,13906,San Francisco State University,Central Power Plant & Cogen Unit,26,San Francisco,CA,DES_CBG_pts,NG, ,College,0.0,10.548,0.0,12.5,0,0,DES_CBG
+26,POINT (-118.4144389666533 34.05678645827959),26,14980,Veolia Energy NA - Century City, ,27,Century City (LA),CA,DES_CBG_pts,NG; E, ,Downtown/ Utility,60.6,0.0,82.6,0.0,0,0,DES_CBG
+27,POINT (-116.347383715417 33.7654004176064),27,15536,California State University - San Bernadino, ,28,San Bernardino,CA,DES_CBG_pts,NG, ,College,24.0,0.0,10.85,0.0,0,0,DES_CBG
+28,POINT (-121.8084661565708 39.7159471211162),28,15776,Sierra Nevada Brewing, ,29,Chico,CA,DES_CBG_pts, , ,College/,0.0,0.0,3.29,0.0,0,0,DES_CBG
+29,POINT (-122.4364113498344 38.57812230743345),29,15873,Pacific Union College,Pacific Union College,30,Angwin,CA,DES_CBG_pts,NG,Purchased Electricity,College,15.0,0.0,1.89,1.45,0,0,DES_CBG
+30,POINT (-121.5710335898318 38.19078677167293),30,15884,Kaiser Permanente,Kaiser Permanente,31,Vacaville,CA,DES_CBG_pts,NG, ,Healthcare,2.1,13.185,10.5,0.78,0,0,DES_CBG
+31,POINT (-121.4493309890591 38.55076441609754),31,15918,University Of California - Sacramento,Davis Medical Center Cogen Plant,32,Sacramento,CA,DES_CBG_pts,NG, ,Healthcare,48.0,0.0,36.75,28.0,0,0,DES_CBG
+32,POINT (-121.6923786899856 38.60368620136637),32,16038,University of California - Davis, ,33,Davis,CA,DES_CBG_pts,NG, ,College,189.062,0.0,73.524,3.5,0,0,DES_CBG
+33,POINT (-117.236370195242 32.88067801242882),33,16061,Veterans Administration Medical Center - La Jolla,Veterans Administration Medical Center,34,San Diego,CA,DES_CBG_pts,NG, ,Healthcare,3.9,0.0,1.75,5.38,0,0,DES_CBG
+34,POINT (-119.2998266050014 36.3302055568444),34,16793,Kaweah Delta Healthcare District, ,35,Visalia,CA,DES_CBG_pts, , ,Healthcare,0.0,0.0,3.85,1.75,0,0,DES_CBG
+35,POINT (-118.1148984132407 33.78377207592646),35,17527,California State University - Long Beach, ,36,Long Beach,CA,DES_CBG_pts,NG, ,College,15.0,0.0,17.5,0.0,0,0,DES_CBG
+36,POINT (-118.4454529941568 34.07108005327218),36,18121,California State University - Northridge, ,37,Northridge,CA,DES_CBG_pts,NG, ,College,15.06,0.0,13.125,1.18,0,0,DES_CBG
+37,POINT (-118.4161906862579 33.96658626801817),37,18192,Loyola Marymount University, ,38,Los Angeles,CA,DES_CBG_pts,NG/ Electric, ,College,0.0,7.325,4.375,0.0,0,0,DES_CBG
+38,POINT (-117.266797863047 34.05725019391055),38,18231,Loma Linda University,Loma Linda University Hospital,39,Loma Linda,CA,DES_CBG_pts,NG,Waste Heat/Distillate Fuel Oil,Healthcare,85.105,0.0,29.715,13.0,0,0,DES_CBG
+39,POINT (-121.466511694149 38.64705751732935),39,18334,Department of General Services,DGS Central Plant,40,Sacramento,CA,DES_CBG_pts,NG, ,Gov,48.0,0.0,66.5,0.0,0,0,DES_CBG
+40,POINT (-118.4097404770153 33.94101230133629),40,19544,Los Angeles International Airport,Central Utility Plant,41,Los Angeles,CA,DES_CBG_pts,NG, ,Airport,0.0,493.119,70.0,8.4,0,0,DES_CBG
+41,POINT (-116.3987074040107 33.76514922208184),41,19610,Eisenhower Medical Center,Eisenhower Medical Center,42,Rancho Mirage,CA,DES_CBG_pts,NG, ,Healthcare,0.0,0.0,14.35,5.0,0,0,DES_CBG
+42,POINT (-119.1056584672255 35.35021656593389),42,19614,California State University - Bakersfield, ,43,Bakersfield,CA,DES_CBG_pts,NG, ,College,4.68,0.0,4.55,0.0,0,0,DES_CBG
+43,POINT (-117.3310502683792 33.9696336415139),43,19683,University of California - Riverside, ,44,Riverside,CA,DES_CBG_pts,NG, ,College,42.0,0.0,20.125,0.0,0,0,DES_CBG
+44,POINT (-122.3899682815195 37.77296712720882),44,19887,University Of California - San Francisco,UC San Francisco - Medical Center/Parnassus Campus,45,San Francisco,CA,DES_CBG_pts,NG, ,College,32.4,0.0,18.9,13.5,0,0,DES_CBG
+45,POINT (-122.1633862448809 37.4295411566024),45,20939,Stanford University, ,46,Stanford,CA,DES_CBG_pts,NG, ,College,216.0,0.0,70.0,49.9,0,0,DES_CBG
+46,POINT (-117.9135603987181 33.83379167167924),46,21927,Dreamworks, ,47,Anaheim,CA,DES_CBG_pts, , ,Downtown/Utility,9.0,0.0,31.5,0.0,0,0,DES_CBG
+47,POINT (-118.1147661732348 34.23525002437055),47,22572,Ronald Reagan Presidential Library & Museum and Air Force One Pavilion, ,48,Simi Valley,CA,DES_CBG_pts, , ,Downtown/Utility,0.0,0.0,1.355,9.6,0,0,DES_CBG

@@ -1,0 +1,680 @@
+,geometry,FID,COUNTY,Company,Address,City,State,Zip,MASTERTYPE,Type,Subtype,Latitude,Longitude,Emplycode,EmplyAvg,TYPE
+0,POINT (-122.1999862 37.75743804),149,Alameda,Bimbo Bakeries,937 66th Ave, Oakland,CA,94621,bakery,bakery,bread,37.75743804,-122.1999862,212.0,2.0,PROC
+1,POINT (-120.361013 36.170199),1,Fresno,Harris Woolf,26060 Colusa Road, Coalinga,CA,93210,almond,shelling,almond,36.170199,-120.361013,212.0,2.0,PROC
+2,POINT (-118.9792288 35.3532426),130,Kern,Bimbo Bakeries,2309 E Brundage Ln  C, Bakersfield,CA,93307,bakery,bakery,bread,35.3532426,-118.9792288,212.0,2.0,PROC
+3,POINT (-119.0729585 35.3142386),129,Kern,FritoLay,6320 District Blvd, Bakersfield,CA,93313,bakery,distributor,bakery,35.3142386,-119.0729585,212.0,2.0,PROC
+4,POINT (-122.9247018 39.03967716),161,Lake,FritoLay,781 Bevins St, Lakeport,CA,95453,bakery,distributor,bakery,39.03967716,-122.9247018,212.0,2.0,PROC
+5,POINT (-118.4635072 34.04036946),494,Los Angeles,Star Kosher Meat Market,12136 California Route 2, Los Angeles,CA,90025,redmeat,processor,meat,34.04036946,-118.4635072,212.0,2.0,PROC
+6,POINT (-120.6165935 37.34638531),140,Merced,Bimbo Bakeries,1791 Sycamore Ave, Atwater,CA,95301,bakery,bakery,bread,37.34638531,-120.6165935,212.0,2.0,PROC
+7,POINT (-117.2167535 33.14838051),106,San Diego,Bimbo Bakeries,2825 La Mirada Dr, Vista,CA,92081,bakery,bakery,bread,33.14838051,-117.2167535,212.0,2.0,PROC
+8,POINT (-121.2664014 37.91486673),466,San Joaquin,Hormel Foods Corp,3656 Perlman Dr, Stockton,CA,95206,misc,distributor,misc meat,37.91486673,-121.2664014,212.0,2.0,PROC
+9,POINT (-121.8893686 37.3692697),141,Santa Clara,Bimbo Bakeries,890 Service St  G, San Jose,CA,95112,bakery,bakery,bread,37.3692697,-121.8893686,212.0,2.0,PROC
+10,POINT (-121.9034578 37.3716289),142,Santa Clara,Bimbo Bakeries,1711 Junction Ct  370, San Jose,CA,95112,bakery,bakery,bread,37.3716289,-121.9034578,212.0,2.0,PROC
+11,POINT (-121.9063447 37.36906501000001),505,Santa Clara,Mohawk Packing Co,1660 Old Bayshore Hwy, San Jose,CA,95112,redmeat,distributer,meat,37.36906501,-121.9063447,212.0,2.0,PROC
+12,POINT (-121.7655482 36.9115343),273,Santa Cruz,Foster Farms Dairy,255 Ford St, Watsonville,CA,95076,dairy,dairy,dairy,36.9115343,-121.7655482,212.0,2.0,PROC
+13,POINT (-121.6409908 39.21891552),250,Sutter,pacific coast producers,6005 CA 99, Live Oak,CA,95953,cannery,cannery,fruit tomato,39.21891552,-121.6409908,212.0,2.0,PROC
+14,POINT (-121.97365 38.525534),304,Yolo,sunsweet dryers,29485 Co Rd 27, Winters,CA,95694,dehydrator,dehydrator,prune date fruit nut,38.525534,-121.97365,212.0,2.0,PROC
+15,POINT (-122.2406215 37.7782329),150,Alameda,Bimbo Bakeries,901 King St, Oakland,CA,94606,bakery,bakery,bread,37.7782329,-122.2406215,220.0,7.0,PROC
+16,POINT (-121.9995494 39.19548626),310,Colusa,sunsweet dryers,7207 Moon Bend Rd, Colusa,CA,95932,dehydrator,dehydrator,prune date fruit nut,39.19548626,-121.9995494,220.0,7.0,PROC
+17,POINT (-122.0446191 38.0062496),152,Contra Costa,Bimbo Bakeries,4020 Nelson Ave, Concord,CA,94520,bakery,bakery,bread,38.0062496,-122.0446191,220.0,7.0,PROC
+18,POINT (-118.1580757 33.89691197),115,Los Angeles,FritoLay,8049 Somerset Blvd, Paramount,CA,90723,bakery,distributor,bakery,33.89691197,-118.1580757,220.0,7.0,PROC
+19,POINT (-118.385985 34.24848762),124,Los Angeles,Bimbo Bakeries,9822 Glenoaks Blvd, Sun Valley,CA,91352,bakery,bakery,bread,34.24848762,-118.385985,220.0,7.0,PROC
+20,POINT (-117.8376587 34.01112495),444,Los Angeles,Golden State Foods,21489 Baker Pkwy, City of Industry,CA,91789,misc,distribution,meat dairy vegetables,34.01112495,-117.8376587,220.0,7.0,PROC
+21,POINT (-120.310643 37.03166678),48,Madera,"Zinke Orchards, Inc.",19424 Rd 13,Chowchilla,CA,93610,almond,shelling,almond,37.03166678,-120.310643,220.0,7.0,PROC
+22,POINT (-120.1064053 36.99212331),65,Madera,The Almond Company,2900 Airport Dr.,Madera,CA,93637,almond,shelling,almond,36.99212331,-120.1064053,220.0,7.0,PROC
+23,POINT (-120.0318796 36.92361525),297,Madera,sunsweet dryers,28390 Ave 12, Madera,CA,93637,dehydrator,dehydrator,prune date fruit nut,36.92361525,-120.0318796,220.0,7.0,PROC
+24,POINT (-120.5146852 37.31640658),407,Merced,white oaks frozen foods,2525 Cooper Ave, Merced,CA,95348,freshfrozen,frozen,vegetables,37.31640658,-120.5146852,220.0,7.0,PROC
+25,POINT (-117.8981572 33.86742858),112,Orange,Bimbo Bakeries,366 S Acacia Ave, Fullerton,CA,92831,bakery,bakery,bread,33.86742858,-117.8981572,220.0,7.0,PROC
+26,POINT (-117.2348496 33.8461001),649,Riverside,General Mills,4120 Indian Ave, Perris,CA,92571,warehouse,warehouse,bread,33.8461001,-117.2348496,220.0,7.0,PROC
+27,POINT (-117.2566784 34.12123185),500,San Bernardino,Nagle Veal and Quality Meats Inc,1411 E Baseline St, San Bernardino,CA,92410,redmeat,distribution,meat,34.12123185,-117.2566784,220.0,7.0,PROC
+28,POINT (-121.203236 37.971031),660,San Joaquin,General Mills,4718 Newcastle Rd, Stockton,CA,95215,warehouse,warehouse,bread,37.971031,-121.203236,220.0,7.0,PROC
+29,POINT (-121.3896235 38.10564336),468,San Joaquin,Calivirgin coldani olive ranch,13950 Thornton Rd, Lodi,CA,95242,olive,olive oil,olive,38.10564336,-121.3896235,220.0,7.0,PROC
+30,POINT (-121.1985884 37.78621313),151,San Joaquin,FritoLay,1190 Spreckels Ave, Manteca,CA,95336,bakery,distributor,bakery,37.78621313,-121.1985884,220.0,7.0,PROC
+31,POINT (-120.4359793 34.9952464),128,San Luis Obispo,FritoLay,2220 Hutton Rd, Nipomo,CA,93444,bakery,distributor,bakery,34.9952464,-120.4359793,220.0,7.0,PROC
+32,POINT (-120.6555081 35.7219942),454,San Luis Obispo,Star Farms,7835 Estrella Rd, San Miguel,CA,93451,misc,farm,misc,35.7219942,-120.6555081,220.0,7.0,PROC
+33,POINT (-121.8748077 37.3107649),603,Santa Clara,Santa Clara Nut Company,1590 Little Orchard Street, San Jose,CA,95110,walnut,shelling,walnut,37.3107649,-121.8748077,220.0,7.0,PROC
+34,POINT (-121.9224973 37.38967472),582,Santa Clara,Mission Foods,410 E Trimble Rd, San Jose,CA,95131,tortilla,distributor,tortilla,37.38967472,-121.9224973,220.0,7.0,PROC
+35,POINT (-121.7564429 36.9051127),224,Santa Cruz,Mizkan America,46 Walker St, Watsonville,CA,95076,cannery,cannery,apple cider mill,36.9051127,-121.7564429,220.0,7.0,PROC
+36,POINT (-121.695206 39.259446),311,Sutter,sunsweet dryers,9301 9399 Larkin Rd, Live Oak,CA,95953,dehydrator,dehydrator,prune date fruit nut,39.259446,-121.695206,220.0,7.0,PROC
+37,POINT (-121.6143666 39.10838792),162,Sutter,FritoLay,401 Burns Dr, Yuba City,CA,95991,bakery,distributor,bakery,39.10838792,-121.6143666,220.0,7.0,PROC
+38,POINT (-121.6029172 38.98547299),611,Sutter,California Valley Nut Co,200 Wilkie Avenue, Yuba City,CA,95991,walnut,shelling,walnut,38.98547299,-121.6029172,220.0,7.0,PROC
+39,POINT (-122.2432391 39.95492104),52,Tehama,California Almond Packers & Exporters Inc.,21275 Simpson Road,Corning,CA,96021,almond,shelling,almond,39.95492104,-122.2432391,220.0,7.0,PROC
+40,POINT (-122.1609627 39.90604447),474,Tehama,California Olive Ranch,23377 South Ave, Corning,CA,96021,olive,olive oil,olive,39.90604447,-122.1609627,220.0,7.0,PROC
+41,POINT (-119.3842576 36.3445398),134,Tulare,FritoLay,8316 Elowin Ct, Visalia,CA,93291,bakery,distributor,bakery,36.3445398,-119.3842576,220.0,7.0,PROC
+42,POINT (-119.3060743 36.53174868),627,Tulare,GSF Nut Company LLC,40897 Road 120, Orosi,CA,93647,walnut,shelling,walnut,36.53174868,-119.3060743,220.0,7.0,PROC
+43,POINT (-120.439562 37.919269),507,Tuolumne,Raw Hide Meats,18256 CA-108, Jamestown,CA,95327,redmeat,processor,meat,37.919269,-120.439562,220.0,7.0,PROC
+44,POINT (-121.5418261 38.5693501),246,Yolo,California Fire Roasted LLC,1520 Terminal St, West Sacramento,CA,95691,cannery,cannery,tomato,38.5693501,-121.5418261,220.0,7.0,PROC
+45,POINT (-121.46334 39.2154),570,Yuba,District 10 Dryers LLC,8969 CA-70, Marysville,CA,95901,rice,mill,rice,39.2154,-121.46334,220.0,7.0,PROC
+46,POINT (-122.2696763 37.7954363),490,Alameda,Del Monte meat co,401 Jackson St, Oakland,CA,94607,redmeat,meat,meat misc,37.7954363,-122.2696763,230.0,14.0,PROC
+47,POINT (-121.7244222 39.6460691),166,Butte,FritoLay,741 Oroville Chico Hwy, Durham,CA,95938,bakery,distributor,bakery,39.6460691,-121.7244222,230.0,14.0,PROC
+48,POINT (-122.132647 39.276388),554,Colusa,California Heritage Mills,1 Comet Ln, Maxwell,CA,95955,rice,mill,rice,39.276388,-122.132647,230.0,14.0,PROC
+49,POINT (-122.0340937 38.0187846),154,Contra Costa,FritoLay,5045 Forni Dr, Concord,CA,94520,bakery,distributor,bakery,38.0187846,-122.0340937,230.0,14.0,PROC
+50,POINT (-119.8483113 36.7859444),520,Fresno,Golden California Meat Packers,3189 W Dakota Ave, Fresno,CA,93722,redmeat,distributer,beef,36.7859444,-119.8483113,230.0,14.0,PROC
+51,POINT (-122.190763 39.745762),313,Glenn,sunsweet dryers,7714 Co Rd 9, Orland,CA,95963,dehydrator,dehydrator,prune date fruit nut,39.745762,-122.190763,230.0,14.0,PROC
+52,POINT (-115.545075 32.97874017),517,Imperial,Brandt Beef LLC,299 W Main St, Brawley,CA,92227,redmeat,processor,meat,32.97874017,-115.545075,230.0,14.0,PROC
+53,POINT (-118.2371349 33.9946261),117,Los Angeles,Sara Lee Fresh Inc,5200 Alameda St, Vernon,CA,90058,bakery,bakery,bread,33.9946261,-118.2371349,230.0,14.0,PROC
+54,POINT (-118.2371349 33.9946261),118,Los Angeles,Bimbo Bakeries,5200 S Alameda St, Vernon,CA,90058,bakery,bakery,bread,33.9946261,-118.2371349,230.0,14.0,PROC
+55,POINT (-118.1718315 33.93029186),258,Los Angeles,Saputo Cheese USA Inc,5611 Imperial Hwy, South Gate,CA,90270,dairy,dairy,cheese,33.93029186,-118.1718315,230.0,14.0,PROC
+56,POINT (-120.105882 36.95289921),58,Madera,Bapu Almond Co. Inc.,24341 Ave 14,Madera,CA,93637,almond,shelling,almond,36.95289921,-120.105882,230.0,14.0,PROC
+57,POINT (-121.8492 36.5877),546,Monterey,Monterey Fish Co,960 S Sanborn Rd, Salinas,CA,93901,redmeat,distribution,meat,36.5877,-121.8492,230.0,14.0,PROC
+58,POINT (-117.7542895 33.65954312),487,Orange,Hormel Foods Corp,2 Venture 250, Irvine,CA,92618,redmeat,meat,misc meat,33.65954312,-117.7542895,230.0,14.0,PROC
+59,POINT (-118.0110314 33.78566816),208,Orange,Guilianos Specialty Foods,12132 Knott St, Garden Grove,CA,92841,cannery,cannery,olive capsicum,33.78566816,-118.0110314,230.0,14.0,PROC
+60,POINT (-116.2166352 33.7243051),109,Riverside,Interstate Brands Corp Hostess,44655 Jackson St, Indio,CA,92201,bakery,bakery,bread,33.7243051,-116.2166352,230.0,14.0,PROC
+61,POINT (-121.35925 38.39108274),158,Sacramento,Bimbo Bakeries,10115 Iron Rock Way  1, Elk Grove,CA,95624,bakery,bakery,bread,38.39108274,-121.35925,230.0,14.0,PROC
+62,POINT (-117.5657411 34.0624194),654,San Bernardino,Kraft Foods Warehouse,3971 E Airport Dr, Ontario,CA,91761,warehouse,warehouse,misc dairy meat bakery,34.0624194,-117.5657411,230.0,14.0,PROC
+63,POINT (-122.0322782 37.3898154),143,Santa Clara,Bimbo Bakeries,456 W Maude Ave, Sunnyvale,CA,94085,bakery,bakery,bread,37.3898154,-122.0322782,230.0,14.0,PROC
+64,POINT (-121.8636121 37.36365275),408,Santa Clara,Odwalla Juices,1805 Las Plumas Ave, San Jose,CA,95133,freshfrozen,misc,fruit vegetable,37.36365275,-121.8636121,230.0,14.0,PROC
+65,POINT (-122.0775027 38.231395),156,Solano,Bimbo Bakeries,2445 S Watney Way  A, Fairfield,CA,94533,bakery,bakery,bread,38.231395,-122.0775027,230.0,14.0,PROC
+66,POINT (-119.2790109 36.2983781),597,Tulare,Atlas world food  Ag,1240 E. Caldwell Avenue, Visalia,CA,93292,walnut,shelling,walnut,36.2983781,-119.2790109,230.0,14.0,PROC
+67,POINT (-121.7592547 38.6926476),469,Yolo,Boundary Bend Olives,455 Harter Ave, Woodland,CA,95776,olive,olive oil,olive,38.6926476,-121.7592547,230.0,14.0,PROC
+68,POINT (-121.1674039 37.74786272),55,San Joaquin,"Golden Gate Nuts, Inc.",23073 S. Frederick Rd.,Ripon,CA,95366,almond,shelling,almond,37.74786272,-121.1674039,240.0,14.0,PROC
+69,POINT (-121.7130121 39.4099827),564,Butte,SunWest Foods Inc,507 Bannock St, Biggs,CA,95917,rice,mill,rice,39.4099827,-121.7130121,241.0,34.0,PROC
+70,POINT (-121.9983254 39.21291531),556,Colusa,PGP International,126 E Main St, Colusa,CA,95932,rice,mill,rice,39.21291531,-121.9983254,241.0,34.0,PROC
+71,POINT (-120.1528256 36.1833823),216,Fresno,Los Gatos Tomato Products,19800 W Gale Ave, Huron,CA,93234,cannery,cannery,tomato,36.1833823,-120.1528256,241.0,34.0,PROC
+72,POINT (-120.0865655 36.5260139),399,Fresno,ConAgra Foods,16429 W Kamm Ave, Helm,CA,93627,freshfrozen,distributor,tomato misc,36.5260139,-120.0865655,241.0,34.0,PROC
+73,POINT (-120.2186862 36.7381794),56,Fresno,Holland Nut Co.,"23986 W Whitesbridge Ave,",Kerman,CA,93630,almond,shelling,almond,36.7381794,-120.2186862,241.0,34.0,PROC
+74,POINT (-119.7469127 36.6984574),531,Fresno,Certified Meat Products,4586 E Commerce Ave, Fresno,CA,93725,redmeat,distribution,meat,36.6984574,-119.7469127,241.0,34.0,PROC
+75,POINT (-124.138734 40.585216),289,Humboldt,Foster Farms Dairy Crystal, ,Fortuna,CA,95540,dairy,dairy,dairy,40.585216,-124.138734,241.0,34.0,PROC
+76,POINT (-119.2593846 35.59767064),33,Kern,"South Valley Almond Company, LLC",15443 Beech Avenue,Wasco,CA,93280,almond,shelling,almond,35.59767064,-119.2593846,241.0,34.0,PROC
+77,POINT (-119.377366 35.56341872),38,Kern,Mandelin Inc.,16219 Western Ave,Wasco,CA,93280,almond,shelling,almond,35.56341872,-119.377366,241.0,34.0,PROC
+78,POINT (-119.3287574 35.54373402),41,Kern,Supreme Almonds of California,16897 Highway 43,Wasco,CA,93280,almond,shelling,almond,35.54373402,-119.3287574,241.0,34.0,PROC
+79,POINT (-119.3336432 35.59563694),84,Kern,"SunnyGem, LLC",500 North F Street,Kern,CA,93280,almond,shelling,almond,35.59563694,-119.3336432,241.0,34.0,PROC
+80,POINT (-119.555466 36.0913919),456,Kings,J G Boswell Co,710 Bainum Ave, Corcoran,CA,93212,misc,misc,onion tomato wheat cotton alfalfa,36.0913919,-119.555466,241.0,34.0,PROC
+81,POINT (-119.6244624 36.3275667),293,Kings,olam spices and vegetable ingredients,9301 Lacey Blvd, Hanford,CA,93230,dehydrator,dehydrator,spice vegetables,36.3275667,-119.6244624,241.0,34.0,PROC
+82,POINT (-118.1560467 34.01057885000001),119,Los Angeles,General Mills,5471 Ferguson Dr, Commerce,CA,90022,bakery,distributor,bread,34.01057885,-118.1560467,241.0,34.0,PROC
+83,POINT (-118.3038372 33.8495399),111,Los Angeles,FritoLay,1500 Francisco St, Torrance,CA,90501,bakery,distributor,bakery,33.8495399,-118.3038372,241.0,34.0,PROC
+84,POINT (-118.2560909 33.8791952),113,Los Angeles,General Mills,1055 Sandhill Ave, Carson,CA,90746,bakery,milling,bread,33.8791952,-118.2560909,241.0,34.0,PROC
+85,POINT (-118.7485118 34.14599988),123,Los Angeles,Bimbo Bakeries,5341 Derry Ave, Agoura Hills,CA,91301,bakery,bakery,bread,34.14599988,-118.7485118,241.0,34.0,PROC
+86,POINT (-118.4593576 34.30381065),187,Los Angeles,Coca Cola bottling,12925 Bradley Ave, Sylmar,CA,91342,beverage,distribution,beverage,34.30381065,-118.4593576,241.0,34.0,PROC
+87,POINT (-117.9328952 34.13148376),539,Los Angeles,Harvest Meat Co,6969 Clark Ave, Newark,CA,94560,redmeat,distribution,meat,34.13148376,-117.9328952,241.0,34.0,PROC
+88,POINT (-120.7242593 37.39071021),492,Merced,Foster Farms Inc,1000 Davis St, Livingston,CA,95334,redmeat,processor,meat,37.39071021,-120.7242593,241.0,34.0,PROC
+89,POINT (-120.726729 37.376697),521,Merced,Mayars Halal Meat,3196 Bird St, Livingston,CA,95334,redmeat,processor,meat,37.376697,-120.726729,241.0,34.0,PROC
+90,POINT (-120.8351352 37.4561342),509,Merced,Clausen Meat Co,19455 E Clausen Rd, Turlock,CA,95380,redmeat,distribution,meat,37.4561342,-120.8351352,241.0,34.0,PROC
+91,POINT (-121.6267457 36.6503806),135,Monterey,FritoLay,1355 Burton Ave, Salinas,CA,93901,bakery,distributor,bakery,36.6503806,-121.6267457,241.0,34.0,PROC
+92,POINT (-117.7539619 33.66244002),439,Orange,kraft,7545 Irvine Center Dr, Irvine,CA,92618,misc,distributor,misc dairy meat bakery,33.66244002,-117.7539619,241.0,34.0,PROC
+93,POINT (-117.5190931 34.0162734),120,Riverside,Cajoleben Inc Galassos Bakery DBA,10820 San Sevaine Way, Mira Loma,CA,91752,bakery,bakery,bread,34.0162734,-117.5190931,241.0,34.0,PROC
+94,POINT (-116.376227 33.810639),110,Riverside,FritoLay,19251 Ruppert, Thousand Palms,CA,92276,bakery,distributor,bakery,33.810639,-116.376227,241.0,34.0,PROC
+95,POINT (-117.4482176 33.9648249),209,Riverside,triple h food processors,5821 Wilderness Ave, Riverside,CA,92504,cannery,cannery,tomato fruit vegetable misc,33.9648249,-117.4482176,241.0,34.0,PROC
+96,POINT (-117.5286561 34.0521248),210,San Bernardino,Mizkan America,5650 E Santa Ana St, Ontario,CA,91761,cannery,cannery,grapes vegetables,34.0521248,-117.5286561,241.0,34.0,PROC
+97,POINT (-117.3235543 34.0318108),497,San Bernardino,Exotic meat Market,12210 Michigan St #13, Grand Terrace,CA,92313,redmeat,processor,meat,34.0318108,-117.3235543,241.0,34.0,PROC
+98,POINT (-121.2645887 37.9083086),237,San Joaquin,Campbell Soup,760 Industrial Dr, Stockton,CA,95206,cannery,cannery,misc,37.9083086,-121.2645887,241.0,34.0,PROC
+99,POINT (-121.2190983 38.00180217),93,San Joaquin,Star Nut Co.,6677 Hardaway Rd.,Stockton,CA,95215,almond,shelling,almond,38.00180217,-121.2190983,241.0,34.0,PROC
+100,POINT (-121.2495361 37.98826346),197,San Joaquin,Pepsi Co,4225 Pepsi Pl, Stockton,CA,95215,beverage,manufacturer,beverage,37.98826346,-121.2495361,241.0,34.0,PROC
+101,POINT (-121.124563 37.778832),47,San Joaquin,"A.D.P. DePalma Farms, Inc.",18666 E. Highway 120,Ripon,CA,95366,almond,shelling,almond,37.778832,-121.124563,241.0,34.0,PROC
+102,POINT (-120.6530794 35.2666877),542,San Luis Obispo,Cattaneo Brothers Inc,769 Caudill St, San Luis Obispo,CA,93401,redmeat,processor,meat,35.2666877,-120.6530794,241.0,34.0,PROC
+103,POINT (-121.5555296 36.9893207),459,Santa Clara,Nestle Prepared Foods,6205 Engle Way  E, Gilroy,CA,95020,misc,misc,misc,36.9893207,-121.5555296,241.0,34.0,PROC
+104,POINT (-122.038889 36.9855468),406,Santa Cruz,Odwalla Juices,120 Dubois St, Santa Cruz,CA,95060,freshfrozen,misc,fruit vegetable,36.9855468,-122.038889,241.0,34.0,PROC
+105,POINT (-121.7809594 36.9034587),137,Santa Cruz,FritoLay,120 Lee Rd  A, Watsonville,CA,95076,bakery,distributor,bakery,36.9034587,-121.7809594,241.0,34.0,PROC
+106,POINT (-120.7767772 37.52175091),279,Stanislaus,Foster Farms Dairy,6321 E Monte Vista Ave, Denair,CA,95316,dairy,dairy,dairy,37.52175091,-120.7767772,241.0,34.0,PROC
+107,POINT (-120.858572 37.596929),612,Stanislaus,Mid Valley Nut Company,2065 Geer Road, Hughson,CA,95326,walnut,shelling,walnut,37.596929,-120.858572,241.0,34.0,PROC
+108,POINT (-120.858572 37.596929),616,Stanislaus,Grower Direct Nut Company,2288 Geer Road, Hughson,CA,95326,walnut,shelling,walnut,37.596929,-120.858572,241.0,34.0,PROC
+109,POINT (-120.9188428 37.63099643),144,Stanislaus,FritoLay,600 Garner Rd, Modesto,CA,95357,bakery,distributor,bakery,37.63099643,-120.9188428,241.0,34.0,PROC
+110,POINT (-121.1650758 37.55256561),103,Stanislaus,Del Mar Farms,9843 Cox Rd,Patterson,CA,95363,almond,shelling,almond,37.55256561,-121.1650758,241.0,34.0,PROC
+111,POINT (-120.8337871 37.48478934),460,Stanislaus,Land O Lakes Purina Feed,1125 Paulson Rd, Turlock,CA,95380,misc,misc,misc,37.48478934,-120.8337871,241.0,34.0,PROC
+112,POINT (-120.8608537 37.48534051),496,Stanislaus,Sanders Meat Services,1220 South Ave, Turlock,CA,95380,redmeat,distributer,meat,37.48534051,-120.8608537,241.0,34.0,PROC
+113,POINT (-119.2139465 35.91433138),94,Tulare,"Treehouse California Almonds, LLC",6914 Rd 160,Earlimart,CA,93219,almond,shelling,almond,35.91433138,-119.2139465,241.0,34.0,PROC
+114,POINT (-119.1727636 34.1939197),214,Ventura,smucker fruit processing co,800 Commercial Ave, Oxnard,CA,93030,cannery,cannery,fruit,34.1939197,-119.1727636,241.0,34.0,PROC
+115,POINT (-119.112184 34.314191),215,Ventura,saticoy food corp,554 Todd Rd, Santa Paula,CA,93060,cannery,cannery,vegetables,34.314191,-119.112184,241.0,34.0,PROC
+116,POINT (-121.7592547 38.6926476),248,Yolo,Boundary Bend Olives,455 Harter Ave, Woodland,CA,95776,cannery,cannery,olive,38.6926476,-121.7592547,241.0,34.0,PROC
+117,POINT (-122.1181088 37.6224046),528,Alameda,Grand Food Meat Wholesale,3530 Arden Rd, Hayward,CA,94545,redmeat,distribution,meat,37.6224046,-122.1181088,242.0,74.0,PROC
+118,POINT (-122.0526639 37.623259),518,Alameda,Bay Area Seafood Inc,30248 Santucci Ct, Hayward,CA,94544,redmeat,processor,meat,37.623259,-122.0526639,242.0,74.0,PROC
+119,POINT (-121.6878868 39.3738513),312,Butte,stapleton spense packing,1900 Highway 99, Gridley,CA,95948,dehydrator,dehydrator,plums prunes,39.3738513,-121.6878868,242.0,74.0,PROC
+120,POINT (-122.014634 39.032646),557,Colusa,ADM Milling Co,1603 Highway 99 W, Arbuckle,CA,95912,rice,mill,rice,39.032646,-122.014634,242.0,74.0,PROC
+121,POINT (-122.335196 37.92456),238,Contra Costa,Del Monte fresh,3151 Regatta Blvd, Richmond,CA,94804,cannery,cannery,fruit vegetable,37.92456,-122.335196,242.0,74.0,PROC
+122,POINT (-119.7705054 36.7226025),295,Fresno,Valley Fig Growers,2028 S 3rd St, Fresno,CA,93702,dehydrator,dehydrator,fig,36.7226025,-119.7705054,242.0,74.0,PROC
+123,POINT (-119.8493551 36.790759),136,Fresno,FritoLay,3630 N Hazel Ave, Fresno,CA,93722,bakery,distributor,bakery,36.790759,-119.8493551,242.0,74.0,PROC
+124,POINT (-119.8521198 36.7946624),272,Fresno,Foster Farms Dairy,3380 W Ashlan Ave, Fresno,CA,93722,dairy,dairy,dairy,36.7946624,-119.8521198,242.0,74.0,PROC
+125,POINT (-119.7648038 36.7104195),458,Fresno,kraft,2494 S Orange Ave, Fresno,CA,93725,misc,misc,misc dairy meat bakery,36.7104195,-119.7648038,242.0,74.0,PROC
+126,POINT (-119.7394703 36.8920845),59,Fresno,"Verve Green, Inc.",2454 E. Prestwick Ave.,Fresno,CA,93730,almond,shelling,almond,36.8920845,-119.7394703,242.0,74.0,PROC
+127,POINT (-122.190763 39.745762),288,Glenn,Land O Lakes cheese,3601 Co Rd C, Orland,CA,95963,dairy,dairy,cheese,39.745762,-122.190763,242.0,74.0,PROC
+128,POINT (-124.1732695 40.8024142),168,Humboldt,FritoLay,69 W 3rd St, Eureka,CA,95501,bakery,distributor,bakery,40.8024142,-124.1732695,242.0,74.0,PROC
+129,POINT (-118.8450043 35.2537031),393,Kern,Green Valley Packers LLC,14322 Di Giorgio Rd, Arvin,CA,93203,freshfrozen,distributor,fruit vegetable,35.2537031,-118.8450043,242.0,74.0,PROC
+130,POINT (-119.3750385 35.39884227),396,Kern,Bolthouse,33540 CA 58, Buttonwillow,CA,93206,freshfrozen,farm,fruit vegetable,35.39884227,-119.3750385,242.0,74.0,PROC
+131,POINT (-118.2164892 34.0064225),488,Los Angeles,Clougherty Packing LLC Hormel Foods Corp farmer john,3163 E Vernon Ave, Vernon,CA,90058,redmeat,distributor,pork,34.0064225,-118.2164892,242.0,74.0,PROC
+132,POINT (-118.2291682 34.01313696),513,Los Angeles,K and M Food Service,2443 E 27th St, Los Angeles,CA,90058,redmeat,distributer,meat,34.01313696,-118.2291682,242.0,74.0,PROC
+133,POINT (-118.1842066 33.99922285),516,Los Angeles,Harvest Meat Co Inc,2900 Ayers Ave, Vernon,CA,90058,redmeat,warehouse,meat,33.99922285,-118.1842066,242.0,74.0,PROC
+134,POINT (-118.2202301 34.00555344),519,Los Angeles,Farmer John,3049 E Vernon Ave, Los Angeles,CA,90058,redmeat,distributer,meat,34.00555344,-118.2202301,242.0,74.0,PROC
+135,POINT (-118.2068486 33.99652702),523,Los Angeles,Jobbers Meat Packing Co,3336 Fruitland Ave, Vernon,CA,90058,redmeat,distribution,meat,33.99652702,-118.2068486,242.0,74.0,PROC
+136,POINT (-118.2035329 34.00310442),529,Los Angeles,King Meat Service Inc,4215 Exchange Ave, Vernon,CA,90058,redmeat,processor,meat,34.00310442,-118.2035329,242.0,74.0,PROC
+137,POINT (-118.1905668 33.99527082),532,Los Angeles,Premier Meat Co,5030 Gifford Ave, Vernon,CA,90058,redmeat,processor,meat,33.99527082,-118.1905668,242.0,74.0,PROC
+138,POINT (-118.2092744 33.9960162),534,Los Angeles,Rose and Shore Inc,5151 Alcoa Ave, Vernon,CA,90058,redmeat,processor,meat,33.9960162,-118.2092744,242.0,74.0,PROC
+139,POINT (-118.0464632 33.90154409),651,Los Angeles,Mission Foods,14344 Carmenita Rd, Norwalk,CA,90650,warehouse,warehouse,tortilla,33.90154409,-118.0464632,242.0,74.0,PROC
+140,POINT (-118.0844657 33.8740261),257,Los Angeles,California Dairies Inc,11709 Artesia Blvd, Artesia,CA,90701,dairy,distributor,dairy,33.8740261,-118.0844657,242.0,74.0,PROC
+141,POINT (-118.0006961 34.13665852),501,Los Angeles,Burnett and Son Meat Co Inc,1420 S Myrtle Ave, Monrovia,CA,91016,redmeat,processor,meat,34.13665852,-118.0006961,242.0,74.0,PROC
+142,POINT (-117.9850492 34.02893558),447,Los Angeles,Golden State Foods,640 S 6th Ave, City of Industry,CA,91746,misc,distribution,meat dairy vegetables,34.02893558,-117.9850492,242.0,74.0,PROC
+143,POINT (-120.8387087 37.06021712),274,Merced,California Dairies Inc,1160 G St, Los Banos,CA,93635,dairy,distributor,dairy,37.06021712,-120.8387087,242.0,74.0,PROC
+144,POINT (-121.0222096 37.18765732),621,Merced,John B Sanfilippo  Son,29241 W. Cottonwood Road, Gustine,CA,95322,walnut,shelling,walnut,37.18765732,-121.0222096,242.0,74.0,PROC
+145,POINT (-117.7544499 33.66256018),107,Orange,Interstate Brands Corp Hostess,7700 Irvine Center Dr  500, Irvine,CA,92618,bakery,bakery,bread,33.66256018,-117.7544499,242.0,74.0,PROC
+146,POINT (-117.8970548 33.74272493),510,Orange,California Sausage Inc,2102 W Chestnut Ave, Santa Ana,CA,92703,redmeat,distributer,meat,33.74272493,-117.8970548,242.0,74.0,PROC
+147,POINT (-118.0240852 33.8663612),178,Orange,Pepsi Co Bottling Group,4701 Park Rd, Benicia,CA,94510,beverage,manufacturer,beverage,33.8663612,-118.0240852,242.0,74.0,PROC
+148,POINT (-117.5286561 34.0521248),448,San Bernardino,GEODIS distribution,5650 E Santa Ana St, Ontario,CA,91761,misc,shipping,misc,34.0521248,-117.5286561,242.0,74.0,PROC
+149,POINT (-117.3813887 34.07043362),121,San Bernardino,FritoLay,635 W Valley Blvd, Bloomington,CA,92316,bakery,distributor,bakery,34.07043362,-117.3813887,242.0,74.0,PROC
+150,POINT (-121.2478541 38.12153654),242,San Joaquin,pacific coast producers,650 S Guild Ave, Lodi,CA,95240,cannery,cannery,fruit tomato,38.12153654,-121.2478541,242.0,74.0,PROC
+151,POINT (-121.4336996 37.76810705),530,San Joaquin,American Custom Meats,4276 N Tracy Blvd, Tracy,CA,95304,redmeat,processor,meat,37.76810705,-121.4336996,242.0,74.0,PROC
+152,POINT (-121.2952309 37.80386154),491,San Joaquin,Swiss American Sausage Co,251 D'Arcy Pkwy, Lathrop,CA,95330,redmeat,distributor,meat,37.80386154,-121.2952309,242.0,74.0,PROC
+153,POINT (-121.13358 37.75599114),37,San Joaquin,"Almond Ace Packing, Inc.",1555 Warren Rd.,Ripon,CA,95366,almond,shelling,almond,37.75599114,-121.13358,242.0,74.0,PROC
+154,POINT (-121.043212 37.428427),381,Stanislaus,Darling International Inc,11947 S Carpenter Rd, Crows Landing,CA,95313,fog,recycling,fog,37.428427,-121.043212,242.0,74.0,PROC
+155,POINT (-120.7349072 37.56751144),76,Stanislaus,"Rolling Hills Nut Company, Inc.",3443 Montpellier Rd,Hickman,CA,95323,almond,shelling,almond,37.56751144,-120.7349072,242.0,74.0,PROC
+156,POINT (-121.0750639 37.30395603),77,Stanislaus,"Stewart & Jasper Marketing, Inc.",3500 Shiells Rd.,Newman,CA,95360,almond,shelling,almond,37.30395603,-121.0750639,242.0,74.0,PROC
+157,POINT (-121.0838239 37.31492558),299,Stanislaus,VSP products valleysun,3324 Orestimba Rd, Newman,CA,95360,dehydrator,dehydrator,tomato,37.31492558,-121.0838239,242.0,74.0,PROC
+158,POINT (-119.3271193 36.1235096),261,Tulare,kraft,10833 Octol Ave, Tulare,CA,93274,dairy,dairy,dairy,36.1235096,-119.3271193,242.0,74.0,PROC
+159,POINT (-119.3485477 36.2153345),268,Tulare,Saputo Dairy Foods USA,605 N J St, Tulare,CA,93274,dairy,distributor,dairy,36.2153345,-119.3485477,242.0,74.0,PROC
+160,POINT (-119.3522435 36.24891477),476,Tulare,Horizon Nut Co,26487 N Highway 99, Tulare,CA,93274,pistachio,shelling,pistachios,36.24891477,-119.3522435,242.0,74.0,PROC
+161,POINT (-119.2311172 34.2519597),125,Ventura,FritoLay,4535 Dupont Ct, Ventura,CA,93003,bakery,distributor,bakery,34.2519597,-119.2311172,242.0,74.0,PROC
+162,POINT (-121.7669442 38.6940981),569,Yolo,Pacific International Rice Mills Bung,845 Kentucky Ave, Woodland,CA,95695,rice,mill,rice,38.6940981,-121.7669442,242.0,74.0,PROC
+163,POINT (-121.7438662 38.6910179),558,Yolo,SunFoods LLC,1620 E Kentucky Ave, Woodland,CA,95776,rice,distributer,rice,38.6910179,-121.7438662,242.0,74.0,PROC
+164,POINT (-121.574241 38.99685249),610,Yuba,ShoEi Foods USA Inc,1900 Feather River Blvd., Olivehurst,CA,95961,walnut,shelling,walnut,38.99685249,-121.574241,242.0,74.0,PROC
+165,POINT (-122.2366297 37.7214415),148,Alameda,FritoLay Distribution Center,1450 S Loop Rd, Alameda,CA,94502,bakery,distributor,bakery,37.7214415,-122.2366297,251.0,174.0,PROC
+166,POINT (-122.123888 37.702893),256,Alameda,Maxwell House,6 Washinigton Ave, San Leandro,CA,94578,coffee,coffee,coffee,37.702893,-122.123888,251.0,174.0,PROC
+167,POINT (-122.1359842 37.6405022),583,Alameda,Mission Foods,23415 Cabot Blvd, Hayward,CA,94545,tortilla,distributor,tortilla,37.6405022,-122.1359842,251.0,174.0,PROC
+168,POINT (-121.9035837 39.7484102),15,Butte,"Farmers International, Inc.",1260 Muir Avenue,Chico,CA,95973,almond,shelling,almond,39.7484102,-121.9035837,251.0,174.0,PROC
+169,POINT (-122.145602 39.148021),416,Colusa,Morning Star Packing Co,2211 Old Highway 99W, Williams,CA,95987,freshfrozen,distributor,tomato,39.148021,-122.145602,251.0,174.0,PROC
+170,POINT (-119.792659 36.727664),271,Fresno,California Dairies Inc,755 F St, Fresno,CA,93706,dairy,distributor,dairy,36.727664,-119.792659,251.0,174.0,PROC
+171,POINT (-119.8188319 36.7173988),512,Fresno,Ortegas Meat Distribution Inc,2316 S Fruit Ave, Fresno,CA,93706,redmeat,processor,meat,36.7173988,-119.8188319,251.0,174.0,PROC
+172,POINT (-119.8011053 36.6914704),533,Fresno,Fresno Grind,511 W North Ave, Fresno,CA,93706,redmeat,processor,meat,36.6914704,-119.8011053,251.0,174.0,PROC
+173,POINT (-119.730767 36.6717484),190,Fresno,Coca Cola bottling,3220 E Malaga Ave, Fresno,CA,93725,beverage,distribution,beverage,36.6717484,-119.730767,251.0,174.0,PROC
+174,POINT (-119.7550106 36.7187481),401,Fresno,wawona frozen foods,2202 S Cedar Ave, Fresno,CA,93725,freshfrozen,frozen,fruit,36.7187481,-119.7550106,251.0,174.0,PROC
+175,POINT (-119.698921 36.7787808),402,Fresno,ConAgra Foods,5626 E Shields Ave, Fresno,CA,93727,freshfrozen,distributor,tomato misc,36.7787808,-119.698921,251.0,174.0,PROC
+176,POINT (-115.5656918 32.90540654),575,Imperial,spreckels sugar co,395 W Keystone Rd, Brawley,CA,92227,sugarbeat,sugar,sugar beet,32.90540654,-115.5656918,251.0,174.0,PROC
+177,POINT (-118.925666 35.35606790000001),395,Kern,Bolthouse,7200 E Brundage Ln, Bakersfield,CA,93306,freshfrozen,beverage,fruit vegetable,35.3560679,-118.925666,251.0,174.0,PROC
+178,POINT (-118.2427036 33.99965349),485,Los Angeles,Los Angeles Poultry Co,4816 Long Beach Ave, Los Angeles,CA,90058,poultrymeat,processor,poultry,33.99965349,-118.2427036,251.0,174.0,PROC
+179,POINT (-118.0172854 33.87998226),114,Los Angeles,FritoLay,16701 Trojan Way, La Mirada,CA,90638,bakery,distributor,bakery,33.87998226,-118.0172854,251.0,174.0,PROC
+180,POINT (-118.4428567 34.2126219),579,Los Angeles,Mission Foods,14200 Arminta St, Panorama City,CA,91402,tortilla,bakery,tortilla,34.2126219,-118.4428567,251.0,174.0,PROC
+181,POINT (-117.9505168 34.0124439),577,Los Angeles,Snak King Corp,16150 Stephens St, City of Industry,CA,91745,bakery,bakery,bakery,34.0124439,-117.9505168,251.0,174.0,PROC
+182,POINT (-117.9899282 34.0293075),502,Los Angeles,Pocino Foods Co,14250 Lomitas Ave, City of Industry,CA,91746,redmeat,processor,meat,34.0293075,-117.9899282,251.0,174.0,PROC
+183,POINT (-117.977457 34.03059429),652,Los Angeles,FritoLay,14600 Proctor Ave, City of Industry,CA,91746,warehouse,warehouse,bakery,34.03059429,-117.977457,251.0,174.0,PROC
+184,POINT (-120.1158301 37.01112929),436,Madera,Valley GrainAzteca Milling,23865 Ave 18, Madera,CA,93638,mill,milling,corn wheat,37.01112929,-120.1158301,251.0,174.0,PROC
+185,POINT (-120.851591 37.052173),227,Merced,Liberty Packing Co Morning Star,12045 Ingomar Grade, Los Banos,CA,93635,cannery,cannery,tomato,37.052173,-120.851591,251.0,174.0,PROC
+186,POINT (-120.8610285 37.06872885),228,Merced,Kagome,333 Johnson Rd, Los Banos,CA,93635,cannery,cannery,tomato dairy vegetable,37.06872885,-120.8610285,251.0,174.0,PROC
+187,POINT (-120.9254125 37.09392756),229,Merced,Morning Star Packing Co,13448 Volta Rd, Los Banos,CA,93635,cannery,cannery,tomato,37.09392756,-120.9254125,251.0,174.0,PROC
+188,POINT (-120.6057141 37.34365809),230,Merced,teasdale foods inc,901 Packers St, Atwater,CA,95301,cannery,cannery,vegetable bean,37.34365809,-120.6057141,251.0,174.0,PROC
+189,POINT (-120.994276 37.2433156),622,Merced,Andersen Nut Co,3050 S Hunt Rd,Gustine,CA,95322,walnut,shelling,walnut,37.2433156,-120.994276,251.0,174.0,PROC
+190,POINT (-120.7598073 37.38560387),32,Merced,Del Rio Nut Company,15391 Vinewood Ave,Livingston,CA,95334,almond,shelling,almond,37.38560387,-120.7598073,251.0,174.0,PROC
+191,POINT (-117.5163627 34.0245041),446,Riverside,Nestle Prepared Foods,3450 Dulles Dr, Mira Loma,CA,91752,misc,distributor,food beverage,34.0245041,-117.5163627,251.0,174.0,PROC
+192,POINT (-121.3971006 38.48107098),159,Sacramento,Bimbo Bakeries,7601 Wilbur Way, Sacramento,CA,95828,bakery,bakery,bread,38.48107098,-121.3971006,251.0,174.0,PROC
+193,POINT (-121.388323 36.848759),223,San Benito,san benito foods,865 East, Hollister,CA,95023,cannery,cannery,tomato,36.848759,-121.388323,251.0,174.0,PROC
+194,POINT (-117.5911292 34.0793935),122,San Bernardino,FritoLay,9535 Archibald Ave, Rancho Cucamonga,CA,91730,bakery,distributor,bakery,34.0793935,-117.5911292,251.0,174.0,PROC
+195,POINT (-117.5859904 34.0908334),212,San Bernardino,Mizkan America,10037 8th St, Rancho Cucamonga,CA,91730,cannery,cannery,grapes vegetables,34.0908334,-117.5859904,251.0,174.0,PROC
+196,POINT (-117.5347044 34.0437872),183,San Bernardino,Coca Cola Ontario Syrup,1650 S Vintage Ave, Ontario,CA,91761,beverage,syrup,sugar,34.0437872,-117.5347044,251.0,174.0,PROC
+197,POINT (-117.11278 33.11745716),105,San Diego,Bimbo Bakeries,2069 Aldergrove Ave, Escondido,CA,92029,bakery,bakery,bread,33.11745716,-117.11278,251.0,174.0,PROC
+198,POINT (-122.423097 37.69239025),147,San Mateo,FritoLay,151 W Hill Pl, Brisbane,CA,94005,bakery,distributor,bakery,37.69239025,-122.423097,251.0,174.0,PROC
+199,POINT (-122.4174799 37.65050204),146,San Mateo,Bimbo Bakeries,475 S Canal St, South San Francisco,CA,94080,bakery,bakery,bread,37.65050204,-122.4174799,251.0,174.0,PROC
+200,POINT (-121.7087951 36.9535805),225,Santa Cruz,BellCarter Lindsay,233 Peckham Rd, Watsonville,CA,95076,cannery,cannery,olive,36.9535805,-121.7087951,251.0,174.0,PROC
+201,POINT (-121.7799047 36.8974394),405,Santa Cruz,Del Mar Foods,1720 Beach Rd, Watsonville,CA,95076,freshfrozen,frozen,apple peach apricot blackberries strawberries brussel sprouts bell pepers spinach,36.8974394,-121.7799047,251.0,174.0,PROC
+202,POINT (-121.8199584 38.41656818),538,Solano,Superior Farms,6621 Midway Rd, Dixon,CA,95620,redmeat,processor,meat,38.41656818,-121.8199584,251.0,174.0,PROC
+203,POINT (-121.9497933 38.4059222),303,Solano,Mariani Packing,500 Crocker Dr, Vacaville,CA,95688,dehydrator,dehydrator,fruit,38.4059222,-121.9497933,251.0,174.0,PROC
+204,POINT (-120.8066958 37.60404176),45,Stanislaus,"Hughson Nut, Inc.",1825 Verduga Rd,Hughson,CA,95326,almond,shelling,almond,37.60404176,-120.8066958,251.0,174.0,PROC
+205,POINT (-120.9963177 37.62251705),536,Stanislaus,Yosemite Meat Co Inc,601 Zeff Rd, Modesto,CA,95351,redmeat,distribution,meat,37.62251705,-120.9963177,251.0,174.0,PROC
+206,POINT (-120.9964216 37.64508432),31,Stanislaus,Montpelier Nut Co.,1518 K Street,Modesto,CA,95354,almond,shelling,almond,37.64508432,-120.9964216,251.0,174.0,PROC
+207,POINT (-120.9214512 37.62811401),283,Stanislaus,Nestle Prepared Foods,736 Garner Rd, Modesto,CA,95357,dairy,dairy,milk,37.62811401,-120.9214512,251.0,174.0,PROC
+208,POINT (-121.0161811 37.31116518),275,Stanislaus,Saputo Cheese USA Inc,691 Inyo Ave, Newman,CA,95360,dairy,dairy,cheese,37.31116518,-121.0161811,251.0,174.0,PROC
+209,POINT (-120.8854922 37.48950069),277,Stanislaus,California Dairies Inc,475 S Tegner Rd, Turlock,CA,95380,dairy,distributor,dairy,37.48950069,-120.8854922,251.0,174.0,PROC
+210,POINT (-120.857364 37.498202),278,Stanislaus,Hilmar Cheese Company,3600 W Canal Dr, Turlock,CA,95380,dairy,dairy,cheese,37.498202,-120.857364,251.0,174.0,PROC
+211,POINT (-120.8717827 37.49206219),301,Stanislaus,sensient natural ingredients,151 S Walnut Rd, Turlock,CA,95380,dehydrator,dehydrator,garlic onion capsicums vegetables,37.49206219,-120.8717827,251.0,174.0,PROC
+212,POINT (-120.8459656 37.48715302),626,Stanislaus,Turlock Walnut Company Inc,400 D Street, Turlock,CA,95380,walnut,shelling,walnut,37.48715302,-120.8459656,251.0,174.0,PROC
+213,POINT (-119.3296801 36.12369258),262,Tulare,Kraft Hinez Qinc,10800 Ave 184, Tulare,CA,93274,dairy,dairy,dairy,36.12369258,-119.3296801,251.0,174.0,PROC
+214,POINT (-119.3357035 36.1836749),263,Tulare,Saputo Cheese USA Inc,800 E Paige Ave, Tulare,CA,93274,dairy,dairy,cheese,36.1836749,-119.3357035,251.0,174.0,PROC
+215,POINT (-119.3334667 36.19635073),266,Tulare,Saputo Cheese USA Inc,1025 E Bardsley Ave, Tulare,CA,93274,dairy,dairy,cheese,36.19635073,-119.3334667,251.0,174.0,PROC
+216,POINT (-119.3922216 36.3449409),269,Tulare,California Dairies Inc,2000 N Plaza Dr, Visalia,CA,93291,dairy,distributor,dairy,36.3449409,-119.3922216,251.0,174.0,PROC
+217,POINT (-119.1385214 34.2048211),292,Ventura,olde thompson inc,3250 Camino Del Sol, Oxnard,CA,93030,dehydrator,dehydrator,spice vegetables,34.2048211,-119.1385214,251.0,174.0,PROC
+218,POINT (-119.1765679 34.20034594),386,Ventura,tree top,1250 E Third St, Oxnard,CA,93030,freshfrozen,frozen,fruit,34.20034594,-119.1765679,251.0,174.0,PROC
+219,POINT (-119.1685975 34.1922206),450,Ventura,pacific coast produce,950 Mountain View Ave, Oxnard,CA,93030,misc,distribution,misc fruit meat dairy,34.1922206,-119.1685975,251.0,174.0,PROC
+220,POINT (-121.5711667 38.56571387),160,Yolo,FritoLay,3810 Seaport Blvd, West Sacramento,CA,95691,bakery,distributor,bakery,38.56571387,-121.5711667,251.0,174.0,PROC
+221,POINT (-121.5426678 38.56626410000001),550,Yolo,Farmers Rice Cooperative,1800 Terminal St, West Sacramento,CA,95691,rice,hulling mill,rice,38.5662641,-121.5426678,251.0,174.0,PROC
+222,POINT (-121.7141437 38.6780287),551,Yolo,pgp international,351 Hanson Way, Woodland,CA,95776,rice,flour mill,grains rice,38.6780287,-121.7141437,251.0,174.0,PROC
+223,POINT (-122.1251183 37.6330492),284,Alameda,Foster Farms Dairy Crystal,3440 Enterprise Ave, Hayward,CA,94545,dairy,dairy,dairy,37.6330492,-122.1251183,252.0,374.0,PROC
+224,POINT (-121.5573586 39.5050149),253,Butte,pacific coast producers,1601 Mitchell Ave, Oroville,CA,95965,cannery,cannery,fruit tomato,39.5050149,-121.5573586,252.0,374.0,PROC
+225,POINT (-119.7133183 36.8437344),403,Fresno,wawona frozen foods,100 W Alluvial Ave, Clovis,CA,93611,freshfrozen,frozen,fruit,36.8437344,-119.7133183,252.0,374.0,PROC
+226,POINT (-120.449824 36.8353426),221,Fresno,TomaTek Inc tomato,2502 N St, Firebaugh,CA,93622,cannery,cannery,tomato,36.8353426,-120.449824,252.0,374.0,PROC
+227,POINT (-119.7764188 36.6971425),581,Fresno,Mission Foods,2849 E Edgar Ave, Fresno,CA,93706,tortilla,distributor,tortilla,36.6971425,-119.7764188,252.0,374.0,PROC
+228,POINT (-118.8170324 35.19703906),388,Kern,Grimmway Arvin Organic,830 Sycamore Rd, Arvin,CA,93203,freshfrozen,distributor,vegetables,35.19703906,-118.8170324,252.0,374.0,PROC
+229,POINT (-119.4750922 36.2725836),21,Kings,Nichols Pistachio,13762 1st Avenue,Hanford,CA,93230,almond,shelling,almond,36.2725836,-119.4750922,252.0,374.0,PROC
+230,POINT (-119.6481326 36.2552677),217,Kings,Del Monte,10652 Jackson Ave, Hanford,CA,93230,cannery,cannery,fruit vegetable,36.2552677,-119.6481326,252.0,374.0,PROC
+231,POINT (-118.201853 33.9977932),435,Los Angeles,General Mills,4309 Fruitland Ave, Vernon,CA,90058,mill,milling,bread,33.9977932,-118.201853,252.0,374.0,PROC
+232,POINT (-118.0639687 33.89511025),442,Los Angeles,Safeway Distribution,12801 Excelsior Dr, Santa Fe Springs,CA,90670,misc,distributor,misc,33.89511025,-118.0639687,252.0,374.0,PROC
+233,POINT (-118.2457127 33.86287660000001),650,Los Angeles,General Mills,1375 Beachey Pl, Carson,CA,90746,warehouse,warehouse,bread,33.8628766,-118.2457127,252.0,374.0,PROC
+234,POINT (-118.4869818 34.32156421),656,Los Angeles,FritoLay,14069 Balboa Blvd, Sylmar,CA,91342,warehouse,warehouse,bakery,34.32156421,-118.4869818,252.0,374.0,PROC
+235,POINT (-117.9328952 34.13148376),574,Los Angeles,Harvest Meat Co,6520 Irwindale Ave, Irwindale,CA,91702,seafood,warehouse,seafood,34.13148376,-117.9328952,252.0,374.0,PROC
+236,POINT (-117.8803146 34.0007293),443,Los Angeles,Golden State Foods,19317 Arenth Ave, City of Industry,CA,91748,misc,distribution,meat dairy vegetables,34.0007293,-117.8803146,252.0,374.0,PROC
+237,POINT (-120.726729 37.376697),300,Merced,sensient natural ingredients,9984 Walnut Ave, Livingston,CA,95334,dehydrator,dehydrator,garlic onion capsicums vegetables,37.376697,-120.726729,252.0,374.0,PROC
+238,POINT (-117.6606051 33.66542383),108,Orange,FritoLay,26962 Vista Terrace, Lake Forest,CA,92630,bakery,distributor,bakery,33.66542383,-117.6606051,252.0,374.0,PROC
+239,POINT (-117.9045251 33.86825896),441,Orange,kraft,1500 E Walnut Ave, Fullerton,CA,92831,misc,misc,misc dairy meat bakery,33.86825896,-117.9045251,252.0,374.0,PROC
+240,POINT (-116.97286 32.56069353),383,San Diego,Heinz Frozen Food Co,7878 Airway Rd, San Diego,CA,92154,freshfrozen,frozen,misc,32.56069353,-116.97286,252.0,374.0,PROC
+241,POINT (-121.5400784 37.00309108),298,Santa Clara,Gilroy foods,1350 CA 152, Gilroy,CA,95020,dehydrator,dehydrator,garlic onion capsicums,37.00309108,-121.5400784,252.0,374.0,PROC
+242,POINT (-121.9008639 38.5249124),585,Solano,Dixon Ridge Farms,5430 Putah Creek Rd, Winters,CA,95694,walnut,shelling,walnut,38.5249124,-121.9008639,252.0,374.0,PROC
+243,POINT (-120.9443222 37.62376015),231,Stanislaus,seneca foods corp,2801 Finch Rd, Modesto,CA,95354,cannery,cannery,apricots peaches pears,37.62376015,-120.9443222,252.0,374.0,PROC
+244,POINT (-120.9915683 37.63599567),233,Stanislaus,stanislaus food pr,1202 D St, Modesto,CA,95354,cannery,cannery,tomato,37.63599567,-120.9915683,252.0,374.0,PROC
+245,POINT (-120.9202307 37.63595179),232,Stanislaus,Del Monte,4000 Yosemite Blvd, Modesto,CA,95357,cannery,cannery,fruit vegetable,37.63595179,-120.9202307,252.0,374.0,PROC
+246,POINT (-121.6416708 39.13874989),307,Sutter,sunsweet growers,901 N Walton Ave, Yuba City,CA,95993,dehydrator,dehydrator,prune date,39.13874989,-121.6416708,252.0,374.0,PROC
+247,POINT (-122.1784341 39.92509305),254,Tehama,BellCarter Lindsay,1012 2nd St, Corning,CA,96021,cannery,cannery,olive,39.92509305,-122.1784341,252.0,374.0,PROC
+248,POINT (-119.0066379 36.0792605),478,Tulare,Foster Farms,770 N Plano St, Porterville,CA,93257,poultrymeat,poultry,poultry,36.0792605,-119.0066379,252.0,374.0,PROC
+249,POINT (-119.3347887 36.1883014),265,Tulare,Saputo Cheese USA Inc,901 E Levin Ave, Tulare,CA,93274,dairy,dairy,cheese,36.1883014,-119.3347887,252.0,374.0,PROC
+250,POINT (-119.3423606 36.2039011),267,Tulare,Land O Lakes,400 S M St, Tulare,CA,93274,dairy,distributor,dairy,36.2039011,-119.3423606,252.0,374.0,PROC
+251,POINT (-119.166061 34.1901658),385,Ventura,Gills Onions,1051 Pacific Ave, Oxnard,CA,93030,freshfrozen,fresh,onion,34.1901658,-119.166061,252.0,374.0,PROC
+252,POINT (-121.9682522 38.52712769),96,Yolo,Mariani Nut Company,709 Dutton Street,Winters,CA,95694,almond,shelling,almond,38.52712769,-121.9682522,252.0,374.0,PROC
+253,POINT (-121.757955 38.6789674),247,Yolo,pacific coast producers,1376 Lemen Ave, Woodland,CA,95776,cannery,cannery,fruit tomato,38.6789674,-121.757955,252.0,374.0,PROC
+254,POINT (-119.5772096 36.5053632),398,Fresno,sunsweet fresh,11888 E Clarkson Ave, Kingsburg,CA,93631,freshfrozen,fresh,prune date,36.5053632,-119.5772096,254.0,749.0,PROC
+255,POINT (-118.9244892 35.283402),394,Kern,Grimmway Enterprises,6900 Mountain View Rd, Bakersfield,CA,93307,freshfrozen,farm,misc carrot,35.283402,-118.9244892,254.0,749.0,PROC
+256,POINT (-117.5532073 34.0936746),578,San Bernardino,GrumaMissions Food Corp,11559 Jersey Blvd, Rancho Cucamonga,CA,91730,tortilla,bakery,tortilla,34.0936746,-117.5532073,254.0,749.0,PROC
+257,POINT (-121.2545074 37.91029296),601,San Joaquin,Pearl Crop Inc,1550 Industrial Drive, Stockton,CA,95206,walnut,shelling,walnut,37.91029296,-121.2545074,254.0,749.0,PROC
+258,POINT (-120.8361494 37.48746862),482,Stanislaus,Foster Farms,1033 S Center St, Turlock,CA,95380,poultrymeat,poultry,poultry,37.48746862,-120.8361494,254.0,749.0,PROC
+259,POINT (-119.3325655 36.1862689),264,Tulare,Nestle Dreyers,970 E Continental Ave, Tulare,CA,93274,dairy,dairy,frozen,36.1862689,-119.3325655,254.0,749.0,PROC
+260,POINT (-119.7983342 36.6968287),479,Fresno,Foster Farms,2960 S Cherry Ave, Fresno,CA,93706,poultrymeat,poultry,poultry,36.6968287,-119.7983342,260.0,1500.0,PROC
+261,POINT (-115.5263231 33.00091292),486,Imperial,National Beef LP,57 Shank Rd, Brawley,CA,92227,redmeat,distributer,beef,33.00091292,-115.5263231,260.0,1500.0,PROC
+262,POINT (-119.8858919 35.64094278),475,Kern,Horizon Nut Co,14633 CA 33, Lost Hills,CA,93249,pistachio,shelling,pistachios,35.64094278,-119.8858919,260.0,1500.0,PROC
+263,POINT (-120.8500334 37.41729805),276,Merced,Hilmar Cheese Company,8901 North Lander Avenue, Hilmar,CA,95324,dairy,dairy,cheese,37.41729805,-120.8500334,260.0,1500.0,PROC
+264,POINT (-121.479909 38.5843799),44,Sacramento,Blue Diamond Growers,"1802 """"C"""" St.",Sacramento,CA,95814,almond,shelling,almond,38.5843799,-121.479909,260.0,1500.0,PROC
+265,POINT (-122.7252802 38.3911388),413,Sonoma,Odwalla Juices,345 Sutton Pl, Santa Rosa,CA,95407,freshfrozen,misc,fruit vegetable,38.3911388,-122.7252802,260.0,1500.0,PROC
+266,POINT (-122.0824347 37.6123694),193,Alameda,Pepsi Co,29000 Hesperian Blvd, Hayward,CA,94544,beverage,distributor,beverage,37.6123694,-122.0824347,0.0,0.0,PROC
+267,POINT (-122.1648034 37.6964714),194,Alameda,Coca Cola,14655 Wicks Blvd, San Leandro,CA,94577,beverage,manufacturer,beverage,37.6964714,-122.1648034,0.0,0.0,PROC
+268,POINT (-122.308272 37.78860218),339,Alameda,Hangar 1 Vodka,2505 Monarch St, Alameda,CA,94501,distillery,distillery,distillers grain,37.78860218,-122.308272,0.0,0.0,PROC
+269,POINT (-122.3091766 37.787583),340,Alameda,St George Spirits,2601 Monarch St, Alameda,CA,94501,distillery,distillery,distillers grain,37.787583,-122.3091766,0.0,0.0,PROC
+270,POINT (-121.8137265 37.707592),348,Alameda,Sutherland Distilling Company,3189 Independence Dr, Livermore,CA,94551,distillery,distillery,distillers grain,37.707592,-121.8137265,0.0,0.0,PROC
+271,POINT (-122.2673971 37.8142698),359,Alameda,Crooked City Cider,477 25th St, Oakland,CA,94612,distillery,distillery,distillers grain,37.8142698,-122.2673971,0.0,0.0,PROC
+272,POINT (-122.2995967 37.8790962),201,Alameda,Gilman Brewery Company,912 Gilman St, Berkeley,CA,94710,brewery,brewery,grains,37.8790962,-122.2995967,0.0,0.0,PROC
+273,POINT (-122.2783479 37.79788631),522,Alameda,Allied Pringle Food Sales,333 Clay St, Oakland,CA,94607,redmeat,distributer,meat,37.79788631,-122.2783479,0.0,0.0,PROC
+274,POINT (-122.2997224 37.8654459),676,Alameda,Takara Sake USA Inc,22750 Hawthorne Blvd # 205, Torrance,CA,90505,winery,winery,pomace,37.8654459,-122.2997224,0.0,0.0,PROC
+275,POINT (-121.7199919 37.6775519),678,Alameda,Eckert Estate Winery,5963 Graham Ct D, Livermore,CA,94550,winery,winery,pomace,37.6775519,-121.7199919,0.0,0.0,PROC
+277,POINT (-122.1410094 37.6462406),659,Alameda,Mission Foods,2748 W Winton Ave, Hayward,CA,94545,warehouse,warehouse,tortilla,37.6462406,-122.1410094,0.0,0.0,PROC
+278,POINT (-121.8315442 39.7445142),8,Butte,Western Nut Company,1026 Sheridan Avenue,Chico,CA,95926,almond,shelling,almond,39.7445142,-121.8315442,0.0,0.0,PROC
+279,POINT (-121.8524769 39.7483933),50,Butte,Chico Nut Company,2020 Esplanade,Chico,CA,95926,almond,shelling,almond,39.7483933,-121.8524769,0.0,0.0,PROC
+280,POINT (-121.8437537 39.7151404),17,Butte,Maisie Jane's,1324 Dayton Rd.,Chico,CA,95928,almond,shelling,almond,39.7151404,-121.8437537,0.0,0.0,PROC
+281,POINT (-121.879513 39.6992817),69,Butte,Vanella Farms,3068 Chico Ave.,Chico,CA,95928,almond,shelling,almond,39.6992817,-121.879513,0.0,0.0,PROC
+282,POINT (-121.8115995 39.6250391),6,Butte,Antonowich hulling,2656 House Ave, Durham,CA,95938,almond,shelling,almond,39.6250391,-121.8115995,0.0,0.0,PROC
+283,POINT (-121.9194823 39.7254009),11,Butte,"Fair Trade Corner, Inc.",11591 Meridian Rd.,Chico,CA,95973,almond,shelling,almond,39.7254009,-121.9194823,0.0,0.0,PROC
+284,POINT (-121.5521462 39.4926099),165,Butte,Delallo Italian,1801 Idora St, Oroville,CA,95966,bakery,bakery,pasta bread,39.4926099,-121.5521462,0.0,0.0,PROC
+285,POINT (-121.8152686 39.7244367),205,Butte,Sierra Nevada Brewery,1075 E 20th St, Chico,CA,95928,brewery,brewery,grains,39.7244367,-121.8152686,0.0,0.0,PROC
+286,POINT (-121.551833 39.49385480000001),252,Butte,Delallo Italian,1800 Idora St, Oroville,CA,95966,cannery,cannery,olive tomato,39.4938548,-121.551833,0.0,0.0,PROC
+287,POINT (-121.6879771 39.37388819),251,Butte,stapleton spense packing,1901 Highway 99, Gridley,CA,95948,cannery,cannery,plums prunes,39.37388819,-121.6879771,0.0,0.0,PROC
+288,POINT (-121.8156589 39.7148081),336,Butte,Hooker Oak Distillery LLC,2420 Park Ave, Chico,CA,95928,distillery,distillery,distillers grain,39.7148081,-121.8156589,0.0,0.0,PROC
+289,POINT (-121.7992644 39.6409589),376,Butte,Almendra Winery  Distillery,9275 Midway, Durham,CA,95938,distillery,distillery,distillers grain,39.6409589,-121.7992644,0.0,0.0,PROC
+290,POINT (-121.486755 39.484101),362,Butte,Cobble Ridge Distillery,555 Avacado Rd, Oroville,CA,95966,distillery,distillery,distillers grain,39.484101,-121.486755,0.0,0.0,PROC
+291,POINT (-121.5753125 39.36485590000001),470,Butte,California Olive Ranch,2675 Lone Tree Rd, Oroville,CA,95965,olive,olive oil,olive,39.3648559,-121.5753125,0.0,0.0,PROC
+292,POINT (-121.840868 39.7725849),473,Butte,California Olive Ranch,1367 E Lassen Ave, Chico,CA,95973,olive,olive oil,olive,39.7725849,-121.840868,0.0,0.0,PROC
+293,POINT (-121.8503841 39.5509135),563,Butte,Far West Rice Inc,3455 Nelson Rd, Durham,CA,95938,rice,mill,rice,39.5509135,-121.8503841,0.0,0.0,PROC
+294,POINT (-121.7468098 39.4993678),565,Butte,Lundberg Family Farms,5311 Midway, Richvale,CA,95974,rice,mill,rice,39.4993678,-121.7468098,0.0,0.0,PROC
+295,POINT (-121.8315442 39.7445142),589,Butte,Western Nut co,1026 Sheridan Avenue, Chico,CA,95926,walnut,shelling,walnut,39.7445142,-121.8315442,0.0,0.0,PROC
+296,POINT (-121.8741326 39.744878),631,Butte,Red Barn Walnut Co,50 Guynn Bridge Ct., Chico,CA,95926,walnut,shelling,walnut,39.744878,-121.8741326,0.0,0.0,PROC
+297,POINT (-121.8175876 39.7041942),619,Butte,Acme Walnut,2644 Hegan Ln,Chico,CA,95928,walnut,shelling,walnut,39.7041942,-121.8175876,0.0,0.0,PROC
+298,POINT (-121.879513 39.6992817),623,Butte,Vanella Farms,3068 Chico Ave., Chico,CA,95928,walnut,processor,walnut,39.6992817,-121.879513,0.0,0.0,PROC
+299,POINT (-121.8647606 39.6948368),625,Butte,Smith Walnut Orchards,3710 Cosby Avenue, Chico,CA,95928,walnut,shelling,walnut,39.6948368,-121.8647606,0.0,0.0,PROC
+300,POINT (-121.9482411 39.6468153),645,Butte,Bremner Farms,9457 River Road, Chico,CA,95928,walnut,shelling,walnut,39.6468153,-121.9482411,0.0,0.0,PROC
+301,POINT (-121.6598883 39.3430373),590,Butte,Golden Pacific Farms LLC,1038 Larkin Road, Gridley,CA,95948,walnut,shelling,walnut,39.3430373,-121.6598883,0.0,0.0,PROC
+302,POINT (-121.9775534 39.8012376),635,Butte,Berberian Nut Co,6100 Wilson Landing Road, Chico,CA,95973,walnut,shelling,walnut,39.8012376,-121.9775534,0.0,0.0,PROC
+303,POINT (-121.7992644 39.6409589),680,Butte,Bertagna Son Kissed Vineyards,9275 Midway, Durham,CA,95938,winery,winery,pomace,39.6409589,-121.7992644,0.0,0.0,PROC
+304,POINT (-120.625043 38.074616),155,Calaveras,FritoLay,2245 CA 49, Angels Camp,CA,95222,bakery,distributor,bakery,38.074616,-120.625043,0.0,0.0,PROC
+305,POINT (-122.0699433 39.00099594),100,Colusa,D & K Orchards,862 Almond Avenue,Arbuckle,CA,95912,almond,shelling,almond,39.00099594,-122.0699433,0.0,0.0,PROC
+306,POINT (-122.014634 39.032646),566,Colusa,California Family Foods Inc,6550 Struckmeyer Rd, Arbuckle,CA,95912,rice,mill,rice,39.032646,-122.014634,0.0,0.0,PROC
+307,POINT (-122.0177766 38.96223341),567,Colusa,Sun Valley Rice Co LLC,7050 Eddy Rd, Arbuckle,CA,95912,rice,mill,rice,38.96223341,-122.0177766,0.0,0.0,PROC
+308,POINT (-122.0274682 39.36054001),553,Colusa,Farmers Rice Cooperative,4937 CA 45, Colusa,CA,95932,rice,warehouse,rice,39.36054001,-122.0274682,0.0,0.0,PROC
+309,POINT (-122.010476 39.211344),562,Colusa,Colusa Rice Company,2889 Niagara Ave, Colusa,CA,95932,rice,distributer,rice,39.211344,-122.010476,0.0,0.0,PROC
+310,POINT (-121.9972567 39.19557132),639,Colusa,Empire Nut Company LLC,7229 Moon Bend Rd., Colusa,CA,95932,walnut,shelling,walnut,39.19557132,-121.9972567,0.0,0.0,PROC
+311,POINT (-122.132647 39.276388),571,Colusa,Polit Farms Inc,Old Hwy 99W, Maxwell,CA,95955,rice,mill,rice,39.276388,-122.132647,0.0,0.0,PROC
+312,POINT (-122.145602 39.148021),79,Colusa,Vann Family Orchards,365 Ruggieri Way,Williams,CA,95987,almond,shelling,almond,39.148021,-122.145602,0.0,0.0,PROC
+313,POINT (-122.145602 39.148021),308,Colusa,olam spices and vegetable ingredients,6229 Myers Road, Williams,CA,95987,dehydrator,dehydrator,spice vegetables,39.148021,-122.145602,0.0,0.0,PROC
+314,POINT (-122.145602 39.148021),552,Colusa,American Commodity Company ACCGWG LLC Great Western Growers,6133 Abel Rd, Williams,CA,95987,rice,hulling mill,rice,39.148021,-122.145602,0.0,0.0,PROC
+315,POINT (-122.145602 39.148021),559,Colusa,Tamaki Rice Corp,1701 Abel Rd, Williams,CA,95987,rice,mill,rice,39.148021,-122.145602,0.0,0.0,PROC
+316,POINT (-121.9600569 37.76912133),196,Contra Costa,Coca Cola,19875 Pacific Gateway Dr, Torrance,CA,90502,beverage,manufacturer,beverage,37.76912133,-121.9600569,0.0,0.0,PROC
+317,POINT (-121.8370613 38.0090202),153,Contra Costa,Costco Bakery,2201 Verne Roberts Cir, Antioch,CA,94509,bakery,bakery,bread,38.0090202,-121.8370613,0.0,0.0,PROC
+318,POINT (-121.61364 37.872),669,Contra Costa,E  J Gallo Winery,1300 Camino Diablo, Byron,CA,94514,winery,winery,grape,37.872,-121.61364,0.0,0.0,PROC
+319,POINT (-121.7474453 38.00163905),594,Contra Costa,Continente Nut LLC,112 Sandy Lane, Oakley,CA,94561,walnut,shelling,walnut,38.00163905,-121.7474453,0.0,0.0,PROC
+320,POINT (-121.9683584 37.7682307),463,Contra Costa,The Kraft Heinz Co,3000 Executive Pkwy, San Ramon,CA,94583,misc,distributor,misc dairy meat bakery,37.7682307,-121.9683584,0.0,0.0,PROC
+321,POINT (-121.9600569 37.76912133),464,Contra Costa,hj heinz co,2603 Camino Ramon  180, San Ramon,CA,94583,misc,distributor,misc dairy meat bakery,37.76912133,-121.9600569,0.0,0.0,PROC
+322,POINT (-121.9616311 37.7739218),465,Contra Costa,kraft,12667 Alcosta Blvd, San Ramon,CA,94583,misc,distributor,misc dairy meat bakery,37.7739218,-121.9616311,0.0,0.0,PROC
+323,POINT (-122.0585818 37.9289597),240,Contra Costa,Del Monte,3003 Oak Rd, Walnut Creek,CA,94597,cannery,cannery,fruit vegetable,37.9289597,-122.0585818,0.0,0.0,PROC
+324,POINT (-122.0265589 37.92695924),239,Contra Costa,Del Monte,205 N Wiget Ln, Walnut Creek,CA,94598,cannery,cannery,fruit vegetable,37.92695924,-122.0265589,0.0,0.0,PROC
+325,POINT (-122.3311499 37.9884985),241,Contra Costa,Del Monte,4136 Lakeside Dr, San Pablo,CA,94806,cannery,cannery,fruit vegetable,37.9884985,-122.3311499,0.0,0.0,PROC
+326,POINT (-122.3536563 37.98168650000001),350,Contra Costa,Falcon Spirits Distillery,3701 Collins Ave, Richmond,CA,94806,distillery,distillery,distillers grain,37.9816865,-122.3536563,0.0,0.0,PROC
+327,POINT (-120.901475 38.917442),249,El Dorado,Ingomar Packing Company,9950 S. Ingomar Grade, Los Banos,CA,95635,cannery,cannery,tomato,38.917442,-120.901475,0.0,0.0,PROC
+328,POINT (-120.743483 38.73360621),346,El Dorado,1848 Distillery,3073 Newtown Rd, Placerville,CA,95667,distillery,distillery,distillers grain,38.73360621,-120.743483,0.0,0.0,PROC
+329,POINT (-121.0594061 38.62264057000001),360,El Dorado,Dry Diggings Distillery,5050 Robert J Mathews Pkwy, El Dorado Hills,CA,95762,distillery,distillery,distillers grain,38.62264057,-121.0594061,0.0,0.0,PROC
+330,POINT (-120.092781 36.185731),457,Fresno,Woolf Enterprises,18900 Gayle Ave, Huron,CA,93234,misc,farm,almond pistachio wheat garlic hay onion tomato grape walnut,36.185731,-120.092781,0.0,0.0,PROC
+331,POINT (-120.3958442 36.5603032),424,Fresno,Pacific Pima Gin Inc,33370 W Nebraska Ave, Cantua Creek,CA,93608,gin,gin,cotton,36.5603032,-120.3958442,0.0,0.0,PROC
+332,POINT (-119.800066 36.5074085),35,Fresno,"Almonds California Pride, Inc.",15516 South Walnut Ave.,Caruthers,CA,93609,almond,shelling,almond,36.5074085,-119.800066,0.0,0.0,PROC
+333,POINT (-119.800066 36.5074085),36,Fresno,Campos Brothers,15516 South Walnut Ave.,Caruthers,CA,93609,almond,shelling,almond,36.5074085,-119.800066,0.0,0.0,PROC
+334,POINT (-119.7321105 36.8648413),67,Fresno,"P-R Farms, Inc.",2917 East Shepherd Ave.,Clovis,CA,93619,almond,shelling,almond,36.8648413,-119.7321105,0.0,0.0,PROC
+335,POINT (-119.7080828 36.8543333),404,Fresno,wawona frozen foods,1265 N Minnewawa Ave, Clovis,CA,93619,freshfrozen,frozen,fruit,36.8543333,-119.7080828,0.0,0.0,PROC
+336,POINT (-120.590125 36.6949117),81,Fresno,"Silver Creek Almond Co., Inc.",43940 W. North Ave.,Firebaugh,CA,93622,almond,shelling,almond,36.6949117,-120.590125,0.0,0.0,PROC
+337,POINT (-120.5929395 36.8529547),82,Fresno,"Oro Loma Ranch, LLC",44474 West Nees Avenue,Firebaugh,CA,93622,almond,shelling,almond,36.8529547,-120.5929395,0.0,0.0,PROC
+338,POINT (-120.449824 36.8353426),220,Fresno,the neil jones food  company,2502 N St, Firebaugh,CA,93622,cannery,cannery,tomato,36.8353426,-120.449824,0.0,0.0,PROC
+339,POINT (-120.6441487 36.8491765),296,Fresno,olam spices and vegetable ingredients,47641 W Nees Ave, Firebaugh,CA,93622,dehydrator,dehydrator,spice vegetables,36.8491765,-120.6441487,0.0,0.0,PROC
+340,POINT (-120.5132977 36.8194803),425,Fresno,Broadview Coop Gin,40109 W Bullard Ave, Firebaugh,CA,93622,gin,gin,cotton,36.8194803,-120.5132977,0.0,0.0,PROC
+341,POINT (-120.5850348 36.68995360000001),426,Fresno,Silver Creek Gin,43939 W. North Ave., Firebaugh,CA,93622,gin,gin,cotton,36.6899536,-120.5850348,0.0,0.0,PROC
+342,POINT (-120.540226 36.830459),477,Fresno,horizon nut firebaugh,4946 4998 N Jerrold Ave, Firebaugh,CA,93622,pistachio,shelling,pistachios,36.830459,-120.540226,0.0,0.0,PROC
+343,POINT (-120.0575087 36.7513146),29,Fresno,"Purity Organics, Inc.","14900 W. Belmont Ave., #2",Kerman,CA,93630,almond,shelling,almond,36.7513146,-120.0575087,0.0,0.0,PROC
+344,POINT (-120.0850319 36.7328678),40,Fresno,"Schaad Family Almonds, Inc.",16471 W. Whitesbridge Rd.,Kerman,CA,93630,almond,shelling,almond,36.7328678,-120.0850319,0.0,0.0,PROC
+345,POINT (-120.0743202 36.7591887),43,Fresno,"Sran Family Orchards, Inc.",1750 N Siskiyou Ave,Kerman,CA,93630,almond,shelling,almond,36.7591887,-120.0743202,0.0,0.0,PROC
+346,POINT (-120.3276961 36.7363191),576,Fresno,spreckels sugar co,29400 W Whitesbridge Ave, Mendota,CA,93640,sugarbeat,sugar,sugar beet,36.7363191,-120.3276961,0.0,0.0,PROC
+347,POINT (-119.4814693 36.6128374),370,Fresno,Oneill Beverages Co LLC,8418 S Lac Jac Ave, Parlier,CA,93648,distillery,distillery,distillers grain,36.6128374,-119.4814693,0.0,0.0,PROC
+348,POINT (-119.5489223 36.6901583),218,Fresno,initiative foods,1913 Industrial Way, Sanger,CA,93657,cannery,cannery,fruit and vegetables,36.6901583,-119.5489223,0.0,0.0,PROC
+349,POINT (-119.5531075 36.6906003),219,Fresno,Del Monte,1810 Academy Ave, Sanger,CA,93657,cannery,cannery,fruit vegetable,36.6906003,-119.5531075,0.0,0.0,PROC
+350,POINT (-119.607013 36.7203759),317,Fresno,E  J Gallo Mc Call Winery,1042 McCall Ave, Sanger,CA,93657,distillery,distillery,distillers grain,36.7203759,-119.607013,0.0,0.0,PROC
+351,POINT (-119.6034687 36.5599163),294,Fresno,Sun Maid Growers,1445 Nebraska Ave, Selma,CA,93662,dehydrator,dehydrator,grape,36.5599163,-119.6034687,0.0,0.0,PROC
+352,POINT (-119.6930332 36.57645004),633,Fresno,Poindexter Nut Company,5414 E. Floral Avenue, Selma,CA,93662,walnut,shelling,walnut,36.57645004,-119.6930332,0.0,0.0,PROC
+353,POINT (-120.2530073 36.6088927),429,Fresno,Westside Farmers CoOp,8587 S Contra Costa Rd, Tranquillity,CA,93668,gin,gin,cotton,36.6088927,-120.2530073,0.0,0.0,PROC
+354,POINT (-119.7888025 36.75927140000001),508,Fresno,Valley Protein Inc,1828 E Hedges Ave, Fresno,CA,93703,redmeat,processor,red meat poultry,36.7592714,-119.7888025,0.0,0.0,PROC
+355,POINT (-119.8227443 36.8185152),39,Fresno,Jeff Curry & Associates,1640 W. Dovewood Lane,Fresno,CA,93711,almond,shelling,almond,36.8185152,-119.8227443,0.0,0.0,PROC
+356,POINT (-119.8581545 36.8379405),78,Fresno,"Panoche Creek Packing, Inc.","3611 West Beechwood, Suite 101",Fresno,CA,93711,almond,shelling,almond,36.8379405,-119.8581545,0.0,0.0,PROC
+357,POINT (-119.7852437 36.7273519),356,Fresno,411 Broadway Ales  Spirits,411 Broadway St, Fresno,CA,93721,distillery,distillery,distillers grain,36.7273519,-119.7852437,0.0,0.0,PROC
+358,POINT (-119.7704475 36.6895339),657,Fresno,Kraft Foods Distribution Center,1055 E North Ave, Fresno,CA,93725,warehouse,warehouse,misc dairy meat bakery,36.6895339,-119.7704475,0.0,0.0,PROC
+359,POINT (-119.6928242 36.7800246),480,Fresno,Foster Farms Turkey Hatchery,5763 E Shields Ave, Fresno,CA,93727,poultrymeat,poultry,turkey,36.7800246,-119.6928242,0.0,0.0,PROC
+360,POINT (-119.6984718 36.7577155),663,Fresno,E  J Gallo Winery,5610 E Olive Ave, Fresno,CA,93727,winery,winery,grape,36.7577155,-119.6984718,0.0,0.0,PROC
+361,POINT (-122.144526 39.729068),471,Glenn,California Olive Ranch,5945 Co Rd 35, Artois,CA,95913,olive,olive oil,olive,39.729068,-122.144526,0.0,0.0,PROC
+362,POINT (-122.0071228 39.63533047),7,Glenn,River West Processing,3190 CA 45, Glenn,CA,95943,almond,shelling,almond,39.63533047,-122.0071228,0.0,0.0,PROC
+363,POINT (-122.0071228 39.63533047),70,Glenn,"Riverwest Processing, Inc.",3190 Highway 45,Glenn,CA,95943,almond,shelling,almond,39.63533047,-122.0071228,0.0,0.0,PROC
+364,POINT (-122.039188 39.63064261),568,Glenn,Rice Researchers Inc,7875 County Road 32 1/2, Glenn,CA,95943,rice,mill,rice,39.63064261,-122.039188,0.0,0.0,PROC
+365,POINT (-122.0074127 39.64210013),587,Glenn,Keyawa Orchard Inc,3230 CA 45, Glenn,CA,95943,walnut,shelling,walnut,39.64210013,-122.0074127,0.0,0.0,PROC
+366,POINT (-122.05278 39.5937),605,Glenn,Borges of California,1640 State Highway 45, Glenn,CA,95943,walnut,shelling,walnut,39.5937,-122.05278,0.0,0.0,PROC
+367,POINT (-122.05278 39.5937),606,Glenn,Carriere Family Farms,1640 State Highway 45, Glenn,CA,95943,walnut,shelling,walnut,39.5937,-122.05278,0.0,0.0,PROC
+368,POINT (-122.1941819 39.73752819),30,Glenn,"T. M. Duche Nut Co., Inc.",1502 S. Railroad Avenue,Orland,CA,95963,almond,shelling,almond,39.73752819,-122.1941819,0.0,0.0,PROC
+369,POINT (-122.1761145 39.73840329),72,Glenn,Baldwin Minkler Farms,320 E South St, Orland,CA,95963,almond,shelling,almond,39.73840329,-122.1761145,0.0,0.0,PROC
+370,POINT (-122.190763 39.745762),95,Glenn,Baugher Ranch Organics,7030 County Road 25,Orland,CA,95963,almond,shelling,almond,39.745762,-122.190763,0.0,0.0,PROC
+371,POINT (-122.0953439 39.71062034),97,Glenn,North Valley Nut,7418 County Road 24,Orland,CA,95963,almond,shelling,almond,39.71062034,-122.0953439,0.0,0.0,PROC
+372,POINT (-122.1983617 39.74951126),472,Glenn,west coast products,717 Tehama St, Orland,CA,95963,olive,cannery oil,olives,39.74951126,-122.1983617,0.0,0.0,PROC
+373,POINT (-122.1142094 39.71034766),640,Glenn,Omega Walnut Inc,7233 County Rd. 24, Orland,CA,95963,walnut,shelling,walnut,39.71034766,-122.1142094,0.0,0.0,PROC
+374,POINT (-124.2017176 40.61622158),290,Humboldt,Humboldt Creamery,572 Fernbridge Dr, Fortuna,CA,95540,dairy,dairy,dairy,40.61622158,-124.2017176,0.0,0.0,PROC
+375,POINT (-115.375136 32.808254),384,Imperial,Grimmway Farm,2105 Anderholt Rd, Holtville,CA,92250,freshfrozen,farm,misc carrot,32.808254,-115.375136,0.0,0.0,PROC
+376,POINT (-118.416618 37.357496),378,Inyo,Owens Valley Distilling Co,E South St, Bishop,CA,93514,distillery,distillery,distillers grain,37.357496,-118.416618,0.0,0.0,PROC
+377,POINT (-118.8672137 35.24893749),390,Kern,Grimmway Farm,14141 Di Giorgio Rd, Arvin,CA,93203,freshfrozen,farm,misc carrot,35.24893749,-118.8672137,0.0,0.0,PROC
+378,POINT (-118.8627841 35.24896262),391,Kern,Grimmway Farm,12495 Di Giorgio Rd, Arvin,CA,93203,freshfrozen,farm,misc carrot,35.24896262,-118.8627841,0.0,0.0,PROC
+379,POINT (-118.8634464 35.25255459),392,Kern,Grimmway Farm,11412 Malaga Rd, Arvin,CA,93203,freshfrozen,farm,misc carrot,35.25255459,-118.8634464,0.0,0.0,PROC
+380,POINT (-119.4493857 35.39826007000001),422,Kern,Farmers CoOp Gin,2531 Wasco Way, Buttonwillow,CA,93206,gin,gin,cotton,35.39826007,-119.4493857,0.0,0.0,PROC
+381,POINT (-119.5172467 35.42823843),430,Kern,Buttonwillow Ginning Co,860 Corn Camp Rd, Buttonwillow,CA,93206,gin,gin,cotton,35.42823843,-119.5172467,0.0,0.0,PROC
+382,POINT (-119.443058 35.399946),453,Kern,J G Boswell Tomato Co,36889 CA 58, Buttonwillow,CA,93206,misc,misc,onion tomato wheat cotton alfalfa,35.399946,-119.443058,0.0,0.0,PROC
+383,POINT (-118.919989 35.2433141),389,Kern,CalOrganic Farms,12000 Main St, Lamont,CA,93241,freshfrozen,farm,vegetables,35.2433141,-118.919989,0.0,0.0,PROC
+384,POINT (-118.8546873 34.82461111),104,Kern,Tejon Ranch Company,988 Crane Canyon Rd,Lebec,CA,93243,almond,shelling,almond,34.82461111,-118.8546873,0.0,0.0,PROC
+385,POINT (-119.2095416 35.60175512),73,Kern,"Famoso Nut Company, LLC",32331 Famoso Rd.,McFarland,CA,93250,almond,shelling,almond,35.60175512,-119.2095416,0.0,0.0,PROC
+386,POINT (-119.289345 35.493768),397,Kern,Grimmway Citrus,6301 S Zerker Rd, Shafter,CA,93263,freshfrozen,farm,citrus,35.493768,-119.289345,0.0,0.0,PROC
+387,POINT (-119.2779085 35.53103456),419,Kern,SJV Quality Cotton,17053 Shafter Ave, Shafter,CA,93263,gin,gin,cotton,35.53103456,-119.2779085,0.0,0.0,PROC
+388,POINT (-118.9991407 35.3480569),0,Kern,Real Almond Processing,327 Daniels Ln, Bakersfield,CA,93307,almond,shelling,almond,35.3480569,-118.9991407,0.0,0.0,PROC
+389,POINT (-119.0633099 35.4209929),88,Kern,JSS Almonds,5600 Norris Road,Bakersfield,CA,93308,almond,shelling,almond,35.4209929,-119.0633099,0.0,0.0,PROC
+390,POINT (-119.0607618 35.4171186),259,Kern,Foster Farms Dairy,6401 Knudsen Dr, Bakersfield,CA,93308,dairy,dairy,dairy,35.4171186,-119.0607618,0.0,0.0,PROC
+391,POINT (-119.2000002 35.2090181),451,Kern,J G Boswell Co,21101 Bear Mountain Blvd, Bakersfield,CA,93311,misc,farm,onion tomato wheat cotton alfalfa,35.2090181,-119.2000002,0.0,0.0,PROC
+392,POINT (-119.0520136 35.07645070000001),432,Kern,Western Farmers CoOp gin,9759 Valpredo Road, Bakersfield,CA,93313,gin,gin,cotton,35.0764507,-119.0520136,0.0,0.0,PROC
+393,POINT (-119.0520136 35.07645070000001),433,Kern,South Valley Gin,9759 Valpredo Road, Bakersfield,CA,93313,gin,gin,cotton,35.0764507,-119.0520136,0.0,0.0,PROC
+394,POINT (-119.060086 35.254233),452,Kern,J G Boswell Co,Ashe Rd, Bakersfield,CA,93313,misc,farm,onion tomato wheat cotton alfalfa,35.254233,-119.060086,0.0,0.0,PROC
+395,POINT (-119.170023 35.386302),131,Kern,FritoLay,28801 CA 58, Bakersfield,CA,93314,bakery,distributor,bakery,35.386302,-119.170023,0.0,0.0,PROC
+396,POINT (-117.6839694 35.62127097),132,Kern,FritoLay,712 W California Ave  A, Ridgecrest,CA,93555,bakery,distributor,bakery,35.62127097,-117.6839694,0.0,0.0,PROC
+397,POINT (-117.6978937 35.65160035),133,Kern,Interstate Brands Corp Hostess,1323 E Inyokern Rd, Ridgecrest,CA,93555,bakery,bakery,bread,35.65160035,-117.6978937,0.0,0.0,PROC
+398,POINT (-119.6341655 36.31325605),434,Kings,Central Valley CoOp,9845 Hanford Armona Rd., Hanford Ca. 93230,CA,0,gin,gin,cotton,36.31325605,-119.6341655,0.0,0.0,PROC
+399,POINT (-119.571849 36.04715726),455,Kings,J G Boswell Co,28001 Dairy Ave, Corcoran,CA,93212,misc,misc,onion tomato wheat cotton alfalfa,36.04715726,-119.571849,0.0,0.0,PROC
+400,POINT (-119.4916877 36.2961128),418,Kings,County Line Gin Inc,12095 2nd Ave, Hanford,CA,93230,gin,gin,cotton,36.2961128,-119.4916877,0.0,0.0,PROC
+401,POINT (-119.8235381 36.3793818),421,Kings,West Island CoOp Gin,20509 Elgin Ave, Lemoore,CA,93245,gin,gin,cotton,36.3793818,-119.8235381,0.0,0.0,PROC
+402,POINT (-119.9512901 36.2534801),423,Kings,Westhaven Cotton Co,27519 Jackson Ave, Lemoore,CA,93245,gin,gin,cotton,36.2534801,-119.9512901,0.0,0.0,PROC
+403,POINT (-119.8119423 36.166087),420,Kings,Stratford Growers Inc,19813 Madison Ave, Stratford,CA,93266,gin,gin,cotton,36.166087,-119.8119423,0.0,0.0,PROC
+404,POINT (-118.2906237 34.0379643),181,Los Angeles,Nestle Waters,1560 E 20th St, Los Angeles,CA,90011,beverage,water,water,34.0379643,-118.2906237,0.0,0.0,PROC
+405,POINT (-118.2953742 33.85157832),176,Los Angeles,Coca Cola,961 E 4th St, Los Angeles,CA,90013,beverage,manufacturer,beverage,33.85157832,-118.2953742,0.0,0.0,PROC
+406,POINT (-118.2360205 34.03886746),325,Los Angeles,loft  bear,1300 Factory Pl, Los Angeles,CA,90013,distillery,distillery,distillers grain,34.03886746,-118.2360205,0.0,0.0,PROC
+407,POINT (-118.2280229 34.0297086),338,Los Angeles,Greenbar Distillery,2459 E 8th St, Los Angeles,CA,90021,distillery,distillery,distillers grain,34.0297086,-118.2280229,0.0,0.0,PROC
+408,POINT (-118.2300884 34.03244416),375,Los Angeles,Our/Los Angeles Vodka,915 S Santa Fe Ave, Los Angeles,CA,90021,distillery,distillery,distillers grain,34.03244416,-118.2300884,0.0,0.0,PROC
+409,POINT (-118.1496215 33.97932195000001),537,Los Angeles,Sterling Pacific Meat Co,6114 Scott Way, Commerce,CA,90040,redmeat,distribution,meat,33.97932195,-118.1496215,0.0,0.0,PROC
+410,POINT (-118.12884 33.97698),548,Los Angeles,AA Meat Products Inc, ,Commerce,CA,90040,redmeat,processor,beef,33.97698,-118.12884,0.0,0.0,PROC
+411,POINT (-118.1594042 33.99756284),662,Los Angeles,E  J Gallo Winery,2700 S Eastern Ave, Commerce,CA,90040,winery,winery,grape,33.99756284,-118.1594042,0.0,0.0,PROC
+412,POINT (-118.42262 34.035989),19,Los Angeles,Wonderful Pistachios & Almonds LLC,13646 Hwy 33,Los Angeles,CA,90064,almond,shelling,almond,34.035989,-118.42262,0.0,0.0,PROC
+413,POINT (-118.3845737 34.02160743),371,Los Angeles,Bavarian Breweries  Distilleries,8650 Hayden Pl, Culver City,CA,90232,distillery,distillery,distillers grain,34.02160743,-118.3845737,0.0,0.0,PROC
+414,POINT (-118.4059563 33.91670346),374,Los Angeles,Rob Rubens Distilling and Brewing,909 E El Segundo Blvd, El Segundo,CA,90245,distillery,distillery,distillers grain,33.91670346,-118.4059563,0.0,0.0,PROC
+415,POINT (-118.0952459 34.00414045),535,Los Angeles,Daniels Western Meat Packers,5217 Industry Ave, Pico Rivera,CA,90660,redmeat,distributer,meat,34.00414045,-118.0952459,0.0,0.0,PROC
+416,POINT (-118.0725606 34.0053848),545,Los Angeles,Manning Beef LLC,9531 Beverly Rd, Pico Rivera,CA,90660,redmeat,processor,meat,34.0053848,-118.0725606,0.0,0.0,PROC
+417,POINT (-118.158987 34.1677665),324,Los Angeles,Stark Spirits Distillery,1260 Lincoln Ave #1100, Pasadena,CA,91103,distillery,distillery,distillers grain,34.1677665,-118.158987,0.0,0.0,PROC
+418,POINT (-118.4176717 34.29029419),186,Los Angeles,Pepsi Co,1200 Arroyo St, San Fernando,CA,91340,beverage,distributor,beverage,34.29029419,-118.4176717,0.0,0.0,PROC
+419,POINT (-117.9429069 34.09282238),185,Los Angeles,Pepsi Co Bottling Group,4416 Azusa Canyon Rd, Irwindale,CA,91706,beverage,distributor,beverage,34.09282238,-117.9429069,0.0,0.0,PROC
+420,POINT (-117.9383565 34.12497219),200,Los Angeles,Miller Coors LLC,15801 W 1st St, Irwindale,CA,91706,brewery,brewery,grains,34.12497219,-117.9383565,0.0,0.0,PROC
+421,POINT (-118.2346389 34.04340317),182,Los Angeles,Coca Cola,3 Park Plaza 600, Irvine,CA,92614,beverage,manufacturer,beverage,34.04340317,-118.2346389,0.0,0.0,PROC
+422,POINT (-118.1464349 34.65317402),127,Los Angeles,FritoLay,751 W Ave L8, Lancaster,CA,93534,bakery,distributor,bakery,34.65317402,-118.1464349,0.0,0.0,PROC
+423,POINT (-119.9690709 36.88025337),664,Madera,E  J Gallo Winery,31754 Ave 9, Madera,CA,93636,winery,winery,grape,36.88025337,-119.9690709,0.0,0.0,PROC
+424,POINT (-120.215923 37.04002243),46,Madera,"Elk Ridge Almonds, Inc.",18252 Avenue 20,Madera,CA,93637,almond,shelling,almond,37.04002243,-120.215923,0.0,0.0,PROC
+425,POINT (-120.1479411 36.95282028),54,Madera,"El Dorado Almonds, LLC",21888 Ave 14,Madera,CA,93637,almond,shelling,almond,36.95282028,-120.1479411,0.0,0.0,PROC
+426,POINT (-120.0497617 36.92390194),63,Madera,Sun-Beam Almond Co.,27421 Avenue 12,Madera,CA,93637,almond,shelling,almond,36.92390194,-120.0497617,0.0,0.0,PROC
+427,POINT (-120.0886947 36.9445305),98,Madera,"Sierra Valley Almonds, LLC",850 Commerce,Madera,CA,93637,almond,shelling,almond,36.9445305,-120.0886947,0.0,0.0,PROC
+428,POINT (-120.1554283 37.0412821),437,Madera,Valley GrainAzteca Milling,20100 Fairmead Blvd, Madera,CA,93638,mill,milling,corn wheat,37.0412821,-120.1554283,0.0,0.0,PROC
+429,POINT (-119.9471456 36.86063618),467,Madera,ENZO Olive Oil,7770 Rd 33, Madera,CA,93638,olive,olive oil,olive,36.86063618,-119.9471456,0.0,0.0,PROC
+430,POINT (-119.649395 37.3342521),354,Madera,Oakhurst Spirits,40300 Greenwood Way, Oakhurst,CA,93644,distillery,distillery,distillers grain,37.3342521,-119.649395,0.0,0.0,PROC
+431,POINT (-122.5114733 37.9464991),314,Marin,ONeill Vintners  Distillers,101 Larkspur Landing Cir # 350, Larkspur,CA,94939,distillery,distillery,distillers grain,37.9464991,-122.5114733,0.0,0.0,PROC
+432,POINT (-123.1965496 39.11134651),163,Mendocino,Earthgrains Co,3001 S State St, Ukiah,CA,95482,bakery,bakery,bread,39.11134651,-123.1965496,0.0,0.0,PROC
+433,POINT (-123.7995304 39.46999852),164,Mendocino,FritoLay,22601 CA 1, Fort Bragg,CA,95437,bakery,distributor,bakery,39.46999852,-123.7995304,0.0,0.0,PROC
+434,POINT (-123.19023 39.13722411),199,Mendocino,Coca Cola bottling,650 Babcock Ln, Ukiah,CA,95482,beverage,distribution,beverage,39.13722411,-123.19023,0.0,0.0,PROC
+435,POINT (-123.3537648 39.00069661),204,Mendocino,Anderson Valley Brewery,17700 Boonville Rd, Boonville,CA,95415,brewery,brewery,grains,39.00069661,-123.3537648,0.0,0.0,PROC
+436,POINT (-123.11474 38.983549),316,Mendocino,Jaxon Keys Winery  Distillery,10400 US-101, Hopland,CA,95449,distillery,distillery,distillers grain,38.983549,-123.11474,0.0,0.0,PROC
+437,POINT (-120.6313143 37.0833504),428,Merced,Dos Palos CoOp Gin Inc,7870 Hutchins Rd, Dos Palos,CA,93620,gin,gin,cotton,37.0833504,-120.6313143,0.0,0.0,PROC
+438,POINT (-120.8733082 36.98276266),2,Merced,Parreira Almond Processing,21490 Ortigalita Rd, Los Banos,CA,93635,almond,shelling,almond,36.98276266,-120.8733082,0.0,0.0,PROC
+439,POINT (-120.8733082 36.98276266),53,Merced,"RPAC, LLC",21490 Ortigalita Rd,Los Banos,CA,93635,almond,shelling,almond,36.98276266,-120.8733082,0.0,0.0,PROC
+440,POINT (-120.6536639 36.95569296),560,Merced,Koda Farms,22540 Russell Ave, South Dos Palos,CA,93665,rice,mill,rice,36.95569296,-120.6536639,0.0,0.0,PROC
+441,POINT (-120.6036316 37.3432084),91,Merced,Valley Pride Ag Company,644 Railroad AVe.,Atwater,CA,95301,almond,shelling,almond,37.3432084,-120.6036316,0.0,0.0,PROC
+442,POINT (-120.630746 37.47702167),22,Merced,"Hilltop Ranch, Inc.",13890 Looney Rd.,Ballico,CA,95303,almond,shelling,almond,37.47702167,-120.630746,0.0,0.0,PROC
+443,POINT (-120.630746 37.47702167),23,Merced,Long Valley Organic LP,13890 Looney Road,Ballico,CA,95303,almond,shelling,almond,37.47702167,-120.630746,0.0,0.0,PROC
+444,POINT (-120.9995354 37.25983146),598,Merced,Pusateri Nut Company,126 4th Street, Gustine,CA,95322,walnut,shelling,walnut,37.25983146,-120.9995354,0.0,0.0,PROC
+445,POINT (-120.2743673 37.16231637),3,Merced,Minturn Nut Co Inc,8800 S Minturn Rd, Le Grand,CA,95333,almond,shelling,almond,37.16231637,-120.2743673,0.0,0.0,PROC
+446,POINT (-120.2743673 37.16231637),101,Merced,Minturn Nut Company,8800 South Minturn Road,LeGrand,CA,95333,almond,shelling,almond,37.16231637,-120.2743673,0.0,0.0,PROC
+447,POINT (-120.8227999 37.37413584),665,Merced,E  J Gallo Winery,18000 River Rd, Livingston,CA,95334,winery,winery,grape,37.37413584,-120.8227999,0.0,0.0,PROC
+448,POINT (-120.4102305 37.28801517),80,Merced,Central Valley Processing,4315 E. Childs Avenue,Merced,CA,95341,almond,shelling,almond,37.28801517,-120.4102305,0.0,0.0,PROC
+449,POINT (-120.5153918 37.29763051),138,Merced,FritoLay,865 Beechcraft Ave, Merced,CA,95341,bakery,distributor,bakery,37.29763051,-120.5153918,0.0,0.0,PROC
+450,POINT (-120.4958176 37.30070751),139,Merced,Bimbo Bakeries,1160 W 13th St, Merced,CA,95341,bakery,bakery,bread,37.30070751,-120.4958176,0.0,0.0,PROC
+451,POINT (-120.4785831 37.18585288),547,Merced,Yosemite Valley Beef,970 E Sandy Mush Rd, Merced,CA,95341,redmeat,processor,meat,37.18585288,-120.4785831,0.0,0.0,PROC
+452,POINT (-120.820324 37.34186752),481,Merced,Foster Farms,18305 1st Ave, Stevinson,CA,95374,poultrymeat,poultry,poultry,37.34186752,-120.820324,0.0,0.0,PROC
+453,POINT (-120.7088938 37.46998895),14,Merced,"Sunny Acres Nut Company, Inc.",12245 Sunny Acres Ave.,Turlock,CA,95380,almond,shelling,almond,37.46998895,-120.7088938,0.0,0.0,PROC
+454,POINT (-120.7505196 37.46289071),26,Merced,"Select Harvest USA, LLC",14827 W. Harding Rd.,Turlock,CA,95380,almond,shelling,almond,37.46289071,-120.7505196,0.0,0.0,PROC
+455,POINT (-120.7505196 37.46289071),27,Merced,Spycher Brothers,14827 W. Harding Rd.,Turlock,CA,95380,almond,shelling,almond,37.46289071,-120.7505196,0.0,0.0,PROC
+456,POINT (-120.7505196 37.46289071),28,Merced,Trinity Nut Company,14827 W. Harding Rd.,Turlock,CA,95380,almond,shelling,almond,37.46289071,-120.7505196,0.0,0.0,PROC
+457,POINT (-121.6052548 36.6578683),189,Monterey,Coca Cola bottling,715 Vandenberg St, Salinas,CA,93905,beverage,distribution,beverage,36.6578683,-121.6052548,0.0,0.0,PROC
+458,POINT (-121.6786613 36.6941323),580,Monterey,Mission Foods,1153 Madison Ln, Salinas,CA,93907,tortilla,distributor,tortilla,36.6941323,-121.6786613,0.0,0.0,PROC
+459,POINT (-121.5545036 36.6057713),270,Monterey,Foster Farms Dairy,21890 Rosehart Way, Salinas,CA,93908,dairy,distributor,dairy,36.6057713,-121.5545036,0.0,0.0,PROC
+460,POINT (-121.4485597 36.506636),357,Monterey,Fogs End Distillery,425 Alta St #15, Gonzales,CA,93926,distillery,distillery,distillers grain,36.506636,-121.4485597,0.0,0.0,PROC
+461,POINT (-121.8492 36.5877),572,Monterey,Monterey Fish Co,160 Municipal Wharf 2, Monterey,CA,93940,seafood,distribution,seafood,36.5877,-121.8492,0.0,0.0,PROC
+462,POINT (-122.257393 38.19445546),318,Napa,Loch  Union Distilling,108 Dodd Ct, American Canyon,CA,94503,distillery,distillery,distillers grain,38.19445546,-122.257393,0.0,0.0,PROC
+463,POINT (-122.543087 38.51966859),353,Napa,Charbay Winery  Distillery,4001 Spring Mountain Rd, St Helena,CA,94574,distillery,distillery,distillers grain,38.51966859,-122.543087,0.0,0.0,PROC
+464,POINT (-122.4217459 38.45922589),671,Napa,Elizabeth spencer winery,1165 Rutherford Rd, Rutherford,CA,94573,winery,winery,grape,38.45922589,-122.4217459,0.0,0.0,PROC
+465,POINT (-121.0932707 39.1788738),438,Nevada,Grass Valley Grains Farm,13310 Nanna's Way, Grass Valley,CA,95949,mill,milling,grains,39.1788738,-121.0932707,0.0,0.0,PROC
+466,POINT (-118.024822 33.8661768),177,Orange,CorruKraft Inc,6200 Caballero Blvd, Buena Park,CA,90620,beverage,distributor,beverage,33.8661768,-118.024822,0.0,0.0,PROC
+467,POINT (-117.832619 33.69427212),506,Orange,sysco newport meat co,16691 Hale Ave, Irvine,CA,92606,redmeat,processor,meat,33.69427212,-117.832619,0.0,0.0,PROC
+468,POINT (-117.6511752 33.6681492),172,Orange,Pepsi Cola Co,27442 Portola Pkwy, Foothill Ranch,CA,92610,beverage,manufacturer,beverage,33.6681492,-117.6511752,0.0,0.0,PROC
+469,POINT (-117.8521778 33.67834594000001),440,Orange,Golden State Foods,18301 Von Karman Ave  1100, Irvine,CA,92612,misc,distribution,meat dairy vegetables,33.67834594,-117.8521778,0.0,0.0,PROC
+470,POINT (-117.8637711 33.67197756),674,Orange,Z Mario,18912 MacArthur Blvd, Irvine,CA,92612,winery,winery,pomace,33.67197756,-117.8637711,0.0,0.0,PROC
+471,POINT (-117.8589155 33.7555499),369,Orange,Blinky Owl Distillery,802 E Washington Ave, Santa Ana,CA,92701,distillery,distillery,distillers grain,33.7555499,-117.8589155,0.0,0.0,PROC
+472,POINT (-117.8863373 33.8151504),175,Orange,Coca Cola water,2121 E Winston Rd, Anaheim,CA,92806,beverage,distribution,water,33.8151504,-117.8863373,0.0,0.0,PROC
+473,POINT (-117.8896371 33.92476578),525,Orange,West Coast Prime Meats,344 Cliffwood Park St, Brea,CA,92821,redmeat,processor,meat,33.92476578,-117.8896371,0.0,0.0,PROC
+474,POINT (-117.9507353 33.77781047),380,Orange,Darling International Inc,10441 Stanford Ave, Garden Grove,CA,92842,fog,distributor,fog,33.77781047,-117.9507353,0.0,0.0,PROC
+475,POINT (-117.8387314 33.67854949),173,Orange,Coca Cola,2603 Camino Ramon 550, San Ramon,CA,94583,beverage,manufacturer,beverage,33.67854949,-117.8387314,0.0,0.0,PROC
+476,POINT (-121.0957426 38.95037508),323,Placer,California Distilled Spirits,12205 Locksley Ln #11, Auburn,CA,95602,distillery,distillery,distillers grain,38.95037508,-121.0957426,0.0,0.0,PROC
+477,POINT (-117.5398279 34.0143232),445,Riverside,Costco Depot,11600 Riverside Dr, Mira Loma,CA,91752,misc,distributor,misc,34.0143232,-117.5398279,0.0,0.0,PROC
+478,POINT (-116.2022463 33.7180904),174,Riverside,Pepsi Co,83801 Citrus Ave, Indio,CA,92201,beverage,distribution,beverage,33.7180904,-116.2022463,0.0,0.0,PROC
+479,POINT (-116.9560497 33.9289179),116,Riverside,Interstate Brands Corp Hostess,1493 E 6th St, Beaumont,CA,92223,bakery,bakery,bread,33.9289179,-116.9560497,0.0,0.0,PROC
+480,POINT (-117.1586881 33.5281219),355,Riverside,Kalifornia Distilleries Inc,40880 County Center Dr, Temecula,CA,92591,distillery,distillery,distillers grain,33.5281219,-117.1586881,0.0,0.0,PROC
+481,POINT (-121.553829 38.316277),411,Sacramento,seneca foods corp,1010 Twin Cities Rd, Courtland,CA,95615,freshfrozen,distributor,apricots peaches pears,38.316277,-121.553829,0.0,0.0,PROC
+482,POINT (-121.1559303 38.67213722),544,Sacramento,Adams Meat Shop,850 E Bidwell St, Folsom,CA,95630,redmeat,processor,meat,38.67213722,-121.1559303,0.0,0.0,PROC
+483,POINT (-121.2874506 38.58650459),624,Sacramento,Agrocal Corp,3100 Zinfandel Rd., Rancho Cordova,CA,95670,walnut,processor,walnut,38.58650459,-121.2874506,0.0,0.0,PROC
+484,POINT (-121.5122275 38.22718584),245,Sacramento,Del Monte,14531 Walnut Grove Thornton Rd, Walnut Grove,CA,95690,cannery,cannery,fruit vegetable,38.22718584,-121.5122275,0.0,0.0,PROC
+485,POINT (-121.262869 38.59833886),321,Sacramento,Gold River Distillery,11460 Sunrise Gold Cir c, Rancho Cordova,CA,95742,distillery,distillery,distillers grain,38.59833886,-121.262869,0.0,0.0,PROC
+486,POINT (-121.4906557 38.57867946),203,Sacramento,AnheuserBusch LLC LA or Solano,1201 K St 730, Sacramento,CA,95814,brewery,brewery,grains,38.57867946,-121.4906557,0.0,0.0,PROC
+487,POINT (-121.4264774 38.5550898),493,Sacramento,Reeds Gormet Meat Co,1210 66th St, Sacramento,CA,95819,redmeat,processor,meat,38.5550898,-121.4264774,0.0,0.0,PROC
+488,POINT (-121.4850377 38.6547978),414,Sacramento,Odwalla Juices,826 National Dr  200, Sacramento,CA,95834,freshfrozen,misc,fruit vegetable,38.6547978,-121.4850377,0.0,0.0,PROC
+489,POINT (-121.4007099 36.8468842),222,San Benito,the neil jones food  company,110 Hawkins St, Hollister,CA,95023,cannery,cannery,tomato,36.8468842,-121.4007099,0.0,0.0,PROC
+490,POINT (-121.4179102 36.8581025),595,San Benito,Gibson Farms,1190 Buena Vista Road, Hollister,CA,95023,walnut,shelling,walnut,36.8581025,-121.4179102,0.0,0.0,PROC
+491,POINT (-121.3802106 36.9359615),628,San Benito,Lomanto Nut Shelling,411 Orchard Road, Hollister,CA,95023,walnut,shelling,walnut,36.9359615,-121.3802106,0.0,0.0,PROC
+492,POINT (-117.6455596 33.9552768),541,San Bernardino,Lizze Custom Processing,7310 Pine Ave, Chino,CA,91708,redmeat,distribution,meat,33.9552768,-117.6455596,0.0,0.0,PROC
+493,POINT (-117.6977825 33.99316408),179,San Bernardino,Coca Cola,14326 Monte Vista Ave, Chino,CA,91710,beverage,manufacturer,beverage,33.99316408,-117.6977825,0.0,0.0,PROC
+494,POINT (-117.5729792 34.0854818),184,San Bernardino,Coca Cola bottling,10670 6th St, Rancho Cucamonga,CA,91730,beverage,distribution,beverage,34.0854818,-117.5729792,0.0,0.0,PROC
+495,POINT (-117.5914941 34.0354505),180,San Bernardino,Pepsi Cola Sales  Distribution,2095 S Archibald Ave, Ontario,CA,91761,beverage,distribution,beverage,34.0354505,-117.5914941,0.0,0.0,PROC
+496,POINT (-117.6475942 34.0785508),211,San Bernardino,cc graber co,315 E. Fourth St., Ontario,CA,91764,cannery,cannery,olives,34.0785508,-117.6475942,0.0,0.0,PROC
+497,POINT (-117.5106509 34.0427742),653,San Bernardino,CocoCola Fontana Warehouse,13508 Marlay Ave, Fontana,CA,92337,warehouse,warehouse,beverage,34.0427742,-117.5106509,0.0,0.0,PROC
+498,POINT (-117.2180892 34.0614199),367,San Bernardino,J Riley Distillery,721 Nevada Street #206B, Redlands,CA,92373,distillery,distillery,distillers grain,34.0614199,-117.2180892,0.0,0.0,PROC
+499,POINT (-117.2848921 34.4744485),126,San Bernardino,FritoLay,17365 Jasmine St, Victorville,CA,92395,bakery,distributor,bakery,34.4744485,-117.2848921,0.0,0.0,PROC
+500,POINT (-117.3286053 34.1519412),449,San Bernardino,heinz,3392 N Mike Daley Dr, San Bernardino,CA,92407,misc,distributor,misc dairy meat bakery,34.1519412,-117.3286053,0.0,0.0,PROC
+501,POINT (-117.2510379 34.087087),655,San Bernardino,Pepsi Co,1650 E Central Ave, San Bernardino,CA,92408,warehouse,warehouse,beverage,34.087087,-117.2510379,0.0,0.0,PROC
+502,POINT (-117.0589417 32.59464466),527,San Diego,Heartland Meat Co,3461 Main St, Chula Vista,CA,91911,redmeat,processor,meat,32.59464466,-117.0589417,0.0,0.0,PROC
+503,POINT (-116.9691008 32.7301892),343,San Diego,Liberty Call Distilling LLC,2739 Via Orange Way Suite 110, Spring Valley,CA,91978,distillery,distillery,distillers grain,32.7301892,-116.9691008,0.0,0.0,PROC
+504,POINT (-116.9690568 32.72948387),344,San Diego,San Diego Distillery,2766 Via Orange Way h, Spring Valley,CA,91978,distillery,distillery,distillers grain,32.72948387,-116.9690568,0.0,0.0,PROC
+505,POINT (-116.9659218 32.7268082),514,San Diego,Seaport Meat Co,2533 Folex Way, Spring Valley,CA,91978,redmeat,distribution,meat,32.7268082,-116.9659218,0.0,0.0,PROC
+506,POINT (-117.2901123 33.2143415),498,San Diego,Olli Salumeria,1301 Rocky Point Dr,Oceanside,CA,92056,redmeat,processor,meat,33.2143415,-117.2901123,0.0,0.0,PROC
+507,POINT (-116.9581957 32.8464737),319,San Diego,BNS Brewing and Distilling Co,10960 Wheatlands Ave, Santee,CA,92071,distillery,distillery,distillers grain,32.8464737,-116.9581957,0.0,0.0,PROC
+508,POINT (-116.9647291 32.83407271),373,San Diego,Copper Collar Distillery,8733 Magnolia Ave Ste. 126, Santee,CA,92071,distillery,distillery,distillers grain,32.83407271,-116.9647291,0.0,0.0,PROC
+509,POINT (-117.1544233 33.1375818),351,San Diego,California Spitirs Co,382 Enterprise St Ste 104, San Marcos,CA,92078,distillery,distillery,distillers grain,33.1375818,-117.1544233,0.0,0.0,PROC
+510,POINT (-117.1504492 32.71253615),330,San Diego,You  Yours Distilling Co,1495 G St, San Diego,CA,92101,distillery,distillery,distillers grain,32.71253615,-117.1504492,0.0,0.0,PROC
+511,POINT (-117.1486342 32.70804257),341,San Diego,Old Harbor Distilling Co,270 17th St, San Diego,CA,92101,distillery,distillery,distillers grain,32.70804257,-117.1486342,0.0,0.0,PROC
+512,POINT (-117.095765 32.7200574),170,San Diego,Coca Cola,1348 47th St, San Diego,CA,92102,beverage,manufacturer,beverage,32.7200574,-117.095765,0.0,0.0,PROC
+513,POINT (-117.1494531 32.7481484),329,San Diego,FruitCraft  Fermentery  Distillery,1477 University Ave, San Diego,CA,92103,distillery,distillery,distillers grain,32.7481484,-117.1494531,0.0,0.0,PROC
+514,POINT (-117.1515777 32.819234),171,San Diego,Pepsi Co Bottling Group,7995 Armour St, San Diego,CA,92111,beverage,manufacturer,beverage,32.819234,-117.1515777,0.0,0.0,PROC
+515,POINT (-117.1667811 32.8834939),372,San Diego,Malahat Spirits,8706 Production Ave, San Diego,CA,92121,distillery,distillery,distillers grain,32.8834939,-117.1667811,0.0,0.0,PROC
+516,POINT (-117.1636825 32.8845622),377,San Diego,Cutwater Spirits,9750 Distribution Ave, San Diego,CA,92121,distillery,distillery,distillers grain,32.8845622,-117.1636825,0.0,0.0,PROC
+517,POINT (-117.1374801 32.89589731),207,San Diego,Setting Sun Sake Brewing Co,8680 Miralani Dr #120, San Diego,CA,92126,brewery,brewery,distillers grain,32.89589731,-117.1374801,0.0,0.0,PROC
+518,POINT (-117.1132075 32.89886697),206,San Diego,Ballast Point Brewing,10051 Old Grove Rd, San Diego,CA,92131,brewery,brewery distillery,distillers grain,32.89886697,-117.1132075,0.0,0.0,PROC
+519,POINT (-116.9799426 32.55250092),515,San Diego,Jensen Meat Co,2550 Britannia Blvd #101, San Diego,CA,92154,redmeat,distributer,meat,32.55250092,-116.9799426,0.0,0.0,PROC
+520,POINT (-122.396965 37.79801),236,San Francisco,Del Monte,1 Maritime Plaza, San Francisco,CA,94111,cannery,cannery,fruit vegetable,37.79801,-122.396965,0.0,0.0,PROC
+521,POINT (-122.3931041 37.7227739),328,San Francisco,Seven Stills Brewery  Distillery,1439 Egbert Ave, San Francisco,CA,94124,distillery,distillery,distillers grain,37.7227739,-122.3931041,0.0,0.0,PROC
+522,POINT (-122.4009519 37.7631195),331,San Francisco,Anchor Brewers  Distillers,1705 Mariposa St, San Francisco,CA,94107,distillery,distillery,distillers grain,37.7631195,-122.4009519,0.0,0.0,PROC
+523,POINT (-122.394191 37.768342),379,San Francisco,Distillery No 209,Pier 50 Shed B, San Francisco,CA,94158,distillery,distillery,distillers grain,37.768342,-122.394191,0.0,0.0,PROC
+524,POINT (-121.224519 37.958243),648,San Joaquin,Cal Ranch Inc,Cherokee Business Park,Stockton,CA,95205,walnut,shelling,walnut,37.958243,-121.224519,0.0,0.0,PROC
+525,POINT (-121.2545074 37.91029296),34,San Joaquin,"Pearl Crop, Inc.",1550 Industrial Dr.,Stockton,CA,95206,almond,shelling,almond,37.91029296,-121.2545074,0.0,0.0,PROC
+526,POINT (-121.348721 38.025675),51,San Joaquin,D.V. Enterprises & Co.,20282 Road 21,Madera,CA,95209,almond,shelling,almond,38.025675,-121.348721,0.0,0.0,PROC
+527,POINT (-121.2454603 37.97592414),285,San Joaquin,Humboldt Creamery,1270 N Shaw Rd, Stockton,CA,95215,dairy,dairy,dairy,37.97592414,-121.2454603,0.0,0.0,PROC
+528,POINT (-121.1673927 38.03711685),596,San Joaquin,Avanti Nut Co,12022 E. Comstock Rd., Stockton,CA,95215,walnut,shelling,walnut,38.03711685,-121.1673927,0.0,0.0,PROC
+529,POINT (-121.2317151 37.98561157),613,San Joaquin,OG Nut Company,2097 Beyer Lane, Stockton,CA,95215,walnut,shelling,walnut,37.98561157,-121.2317151,0.0,0.0,PROC
+530,POINT (-121.1671009 38.01221197),629,San Joaquin,Beecher Lane Walnut,4302 N. Beecher Lane, Stockton,CA,95215,walnut,shelling,walnut,38.01221197,-121.1671009,0.0,0.0,PROC
+531,POINT (-121.1486831 37.97299649),632,San Joaquin,Morada Nut Company,500 N. Jack Tone Road, Stockon,CA,95215,walnut,processor,walnut,37.97299649,-121.1486831,0.0,0.0,PROC
+532,POINT (-121.2190983 38.00180217),638,San Joaquin,Star Nut Co,6677 E. Hardaway Rd.,Stockton,CA,95215,walnut,processor,walnut,38.00180217,-121.2190983,0.0,0.0,PROC
+533,POINT (-121.2434059 38.17719153),670,San Joaquin,E  J Gallo Winery,21280 N Kennefick Rd, Acampo,CA,95220,winery,winery,grape,38.17719153,-121.2434059,0.0,0.0,PROC
+534,POINT (-121.1396502 38.03769082),599,San Joaquin,Anderson Barngrover Ranch Co Inc,14290 E Comstock Rd,Linden,CA,95236,walnut,shelling,walnut,38.03769082,-121.1396502,0.0,0.0,PROC
+535,POINT (-121.1074218 38.03376391),607,San Joaquin,Ferrari Farms Inc,17071 E. Baker Road, Linden,CA,95236,walnut,shelling,walnut,38.03376391,-121.1074218,0.0,0.0,PROC
+536,POINT (-121.0284126 38.04658644),641,San Joaquin,Podesta Packing,8000 N. Podesta Ln., Linden,CA,95236,walnut,shelling,walnut,38.04658644,-121.0284126,0.0,0.0,PROC
+537,POINT (-121.2697323 38.12534472),243,San Joaquin,pacific coast producers,741 S Stockton St, Lodi,CA,95240,cannery,cannery,fruit tomato,38.12534472,-121.2697323,0.0,0.0,PROC
+538,POINT (-121.2526761 38.14164931),244,San Joaquin,pacific coast producers,631 N Cluff Ave, Lodi,CA,95240,cannery,cannery,fruit tomato,38.14164931,-121.2526761,0.0,0.0,PROC
+539,POINT (-121.3978622 37.66374641),71,San Joaquin,"Crown Nut Company, Inc.",31995 S. Chrisman Rd.,Tracy,CA,95304,almond,shelling,almond,37.66374641,-121.3978622,0.0,0.0,PROC
+540,POINT (-120.9985613 37.7787799),49,San Joaquin,"Naraghi Farms, LLC",20001 McHenry Ave,Escalon,CA,95320,almond,shelling,almond,37.7787799,-120.9985613,0.0,0.0,PROC
+541,POINT (-120.9812755 37.77484718),61,San Joaquin,Roche Brothers International Family Nut Co.,26639 Jones Rd,Escalon,CA,95320,almond,shelling,almond,37.77484718,-120.9812755,0.0,0.0,PROC
+542,POINT (-120.977692 37.79405657),62,San Joaquin,Paddack Hulling & Shelling,27052 East Highway 120,Escalon,CA,95320,almond,shelling,almond,37.79405657,-120.977692,0.0,0.0,PROC
+543,POINT (-120.9929974 37.79475777),608,San Joaquin,The DeRuosi Group,1760 Main Street, Escalon,CA,95320,walnut,shelling,walnut,37.79475777,-120.9929974,0.0,0.0,PROC
+544,POINT (-120.932384 37.79460135),609,San Joaquin,GoldRiver Orchards,18400 S. Enterprise Road, Escalon,CA,95320,walnut,shelling,walnut,37.79460135,-120.932384,0.0,0.0,PROC
+545,POINT (-121.2952586 37.79655395),235,San Joaquin,Del Monte,2 Nestle Way, Lathrop,CA,95330,cannery,cannery,fruit vegetable,37.79655395,-121.2952586,0.0,0.0,PROC
+546,POINT (-121.273151 37.82490921),549,San Joaquin,california natural products,1250 W Lathrop Rd, Lathrop,CA,95330,rice,misc,rice,37.82490921,-121.273151,0.0,0.0,PROC
+547,POINT (-121.152572 37.77926584),16,San Joaquin,"Travaille & Phippen, Inc.",12700 East Graves Road,Manteca,CA,95336,almond,shelling,almond,37.77926584,-121.152572,0.0,0.0,PROC
+548,POINT (-121.1967487 37.79212872),540,San Joaquin,Cargill Food Distribution,730 Spreckels Ave, Manteca,CA,95336,redmeat,processor,meat,37.79212872,-121.1967487,0.0,0.0,PROC
+549,POINT (-121.186992 37.72491805),646,San Joaquin,River Oak Orchards,9839 Hutchinson Road, Manteca,CA,95337,walnut,shelling,walnut,37.72491805,-121.186992,0.0,0.0,PROC
+550,POINT (-121.13358 37.75599114),602,San Joaquin,almond ace packing inc,1555 Warren Road, Ripon,CA,95366,walnut,processor,walnut,37.75599114,-121.13358,0.0,0.0,PROC
+551,POINT (-121.4111349 37.74493535),195,San Joaquin,Pepsi Co,1565 N MacArthur Dr  500, Tracy,CA,95376,beverage,distributor,beverage,37.74493535,-121.4111349,0.0,0.0,PROC
+552,POINT (-121.5296589 37.71239011),234,San Joaquin,Musco Olive Products Inc,17950 Via Nicolo Rd, Tracy,CA,95377,cannery,cannery,olive,37.71239011,-121.5296589,0.0,0.0,PROC
+553,POINT (-121.5180313 37.71646043),461,San Joaquin,Safeway Distribution,16900 W Schulte Rd, Tracy,CA,95377,misc,distributor,misc,37.71646043,-121.5180313,0.0,0.0,PROC
+554,POINT (-121.453328 37.718503),462,San Joaquin,Costco Depot,25862 S Schulte Ct, Tracy,CA,95377,misc,distributor,misc,37.718503,-121.453328,0.0,0.0,PROC
+555,POINT (-121.530779 37.72183976),483,San Joaquin,Costco Meat Factory,17880 W Schulte Rd, Tracy,CA,95377,poultrymeat,poultry,poultry,37.72183976,-121.530779,0.0,0.0,PROC
+556,POINT (-120.691676 35.637137),334,San Luis Obispo,KroBar Distillery,2174 CA-46, Paso Robles,CA,93446,distillery,distillery,distillers grain,35.637137,-120.691676,0.0,0.0,PROC
+557,POINT (-120.7413844 35.6509832),342,San Luis Obispo,Villicana Winery refind Distillery,2725 Adelaida Rd, Paso Robles,CA,93446,distillery,distillery,distillers grain,35.6509832,-120.7413844,0.0,0.0,PROC
+558,POINT (-120.691676 35.637137),345,San Luis Obispo,Wine Shine,3064 Limestone Way, Paso Robles,CA,93446,distillery,distillery,distillers grain,35.637137,-120.691676,0.0,0.0,PROC
+559,POINT (-120.6891569 35.6479794),349,San Luis Obispo,Azeo Distillery,3230 Riverside Ave, Paso Robles,CA,93446,distillery,distillery,distillers grain,35.6479794,-120.6891569,0.0,0.0,PROC
+560,POINT (-120.691676 35.637137),526,San Luis Obispo,J and R natural meat and sausage,3450 Riverside Ave, Paso Robles,CA,93446,redmeat,processor,meat,35.637137,-120.691676,0.0,0.0,PROC
+561,POINT (-120.691676 35.637137),675,San Luis Obispo,Grey Wolf Cellars,2174 CA-46, Paso Robles,CA,93446,winery,winery,pomace,35.637137,-120.691676,0.0,0.0,PROC
+562,POINT (-120.7524876 35.566737),677,San Luis Obispo,Red Soles Winery,3230 Oakdale Rd, Paso Robles,CA,93446,winery,winery,pomace,35.566737,-120.7524876,0.0,0.0,PROC
+563,POINT (-120.7198738 35.57716454),672,San Luis Obispo,Bethel Rd Distillery,1266 N Bethel Rd, Templeton,CA,93465,winery,winery,pomace,35.57716454,-120.7198738,0.0,0.0,PROC
+564,POINT (-120.7417822 35.56211492),681,San Luis Obispo,Pasoport Wine Company,95 Booker Rd, Templeton,CA,93465,winery,winery,pomace,35.56211492,-120.7417822,0.0,0.0,PROC
+565,POINT (-122.404349 37.65623955),322,San Mateo,Old World Spirits LLC,121 Industrial Way #4, Belmont,CA,94002,distillery,distillery,distillers grain,37.65623955,-122.404349,0.0,0.0,PROC
+566,POINT (-122.417338 37.68829677),489,San Mateo,Del Monte meat co,145 S Hill Dr, Brisbane,CA,94005,redmeat,meat,meat misc,37.68829677,-122.417338,0.0,0.0,PROC
+567,POINT (-122.4938471 37.50329323),315,San Mateo,Half Moon Bay Distillery,103 Harvard Ave #4, Half Moon Bay,CA,94019,distillery,distillery,distillers grain,37.50329323,-122.4938471,0.0,0.0,PROC
+568,POINT (-122.4268109 37.46602415),409,San Mateo,Odwalla Juices,120 Stone Pine Rd, Half Moon Bay,CA,94019,freshfrozen,misc,fruit vegetable,37.46602415,-122.4268109,0.0,0.0,PROC
+569,POINT (-122.4924732 37.64221587),320,San Mateo,The Tripp Distillery LLC,1121 Palmetto Ave, Pacifica,CA,94044,distillery,distillery,distillers grain,37.64221587,-122.4924732,0.0,0.0,PROC
+570,POINT (-122.4900618 37.62975554),573,San Mateo,Stuckeys Sustainable,2500 Francisco Blvd, Pacifica,CA,94044,seafood,processor,seafood,37.62975554,-122.4900618,0.0,0.0,PROC
+571,POINT (-119.690211 34.41473229),327,Santa Barbara,Cutlers Artisan Spirits,137 Anacapa St, Santa Barbara,CA,93101,distillery,distillery,distillers grain,34.41473229,-119.690211,0.0,0.0,PROC
+572,POINT (-120.1997242 34.6145049),333,Santa Barbara,Brothers Spirits,201 Industrial Way, Buellton,CA,93427,distillery,distillery,distillers grain,34.6145049,-120.1997242,0.0,0.0,PROC
+573,POINT (-119.664181 34.942355),387,Santa Barbara,Grimmway Farm,CA 166, New Cuyama,CA,93254,freshfrozen,farm,misc carrot,34.942355,-119.664181,0.0,0.0,PROC
+574,POINT (-121.5217112 37.0091943),226,Santa Clara,Del Monte farm,6580 Furlong Ave, Gilroy,CA,95020,cannery,cannery,fruit vegetable,37.0091943,-121.5217112,0.0,0.0,PROC
+575,POINT (-121.5422937 36.9987728),658,Santa Clara,Pepsi Co,6300 Cameron Blvd, Gilroy,CA,95020,warehouse,warehouse,beverage,36.9987728,-121.5422937,0.0,0.0,PROC
+576,POINT (-121.9053739 37.36822308),191,Santa Clara,Coca Cola bottling,1555 Old Bayshore Hwy, San Jose,CA,95112,beverage,distribution,beverage,37.36822308,-121.9053739,0.0,0.0,PROC
+577,POINT (-121.9039297 37.4000277),503,Santa Clara,Jims Wholesale Meats,1471 Atteberry Ln, San Jose,CA,95131,redmeat,distribution,meat,37.4000277,-121.9039297,0.0,0.0,PROC
+578,POINT (-122.0492294 36.9561129),358,Santa Cruz,Venus Spirits,427 Swift St A, Santa Cruz,CA,95060,distillery,distillery,distillers grain,36.9561129,-122.0492294,0.0,0.0,PROC
+579,POINT (-121.9466462 37.0576869),363,Santa Cruz,Osocalis Distillery,5579 Soquel San Jose Rd, Soquel,CA,95073,distillery,distillery,distillers grain,37.0576869,-121.9466462,0.0,0.0,PROC
+580,POINT (-121.782524 36.941261),24,Santa Cruz,Int'l Almond Exchange Inc.,144 Westlake Avenue,Watsonville,CA,95076,almond,shelling,almond,36.941261,-121.782524,0.0,0.0,PROC
+581,POINT (-122.3038733 40.5439837),167,Shasta,FritoLay,20196 Charlanne Dr, Redding,CA,96002,bakery,distributor,bakery,40.5439837,-122.3038733,0.0,0.0,PROC
+582,POINT (-122.3831895 40.6309891),291,Shasta,Foster Farms Dairy,1555 Tahoe Ct, Redding,CA,96003,dairy,dairy,dairy,40.6309891,-122.3831895,0.0,0.0,PROC
+583,POINT (-122.6256 41.729575),169,Siskiyou,FritoLay,1525 Lucas Rd  G, Yreka,CA,96097,bakery,distributor,bakery,41.729575,-122.6256,0.0,0.0,PROC
+584,POINT (-122.1219365 38.0778293),198,Solano,Pepsi Co Bottling Group,6261 Caballero Blvd, Buena Park,CA,90620,beverage,manufacturer,beverage,38.0778293,-122.1219365,0.0,0.0,PROC
+585,POINT (-121.9827845 38.2737603),157,Solano,FritoLay,2500 Crocker Cir, Fairfield,CA,94533,bakery,distributor,bakery,38.2737603,-121.9827845,0.0,0.0,PROC
+586,POINT (-121.9831236 38.27284476),337,Solano,FrankLin Distillers Products Ltd,2455 Huntington Dr, Fairfield,CA,94533,distillery,distillery,distillers grain,38.27284476,-121.9831236,0.0,0.0,PROC
+587,POINT (-122.0918977 38.2363656),202,Solano,AnheuserBusch LLC LA or Solano,3101 Busch Dr, Fairfield,CA,94534,brewery,brewery,grains,38.2363656,-122.0918977,0.0,0.0,PROC
+588,POINT (-122.0914123 38.2471514),302,Solano,Culinary Farms,2757 Rockville Rd, Fairfield,CA,94534,dehydrator,dehydrator,tomatoes,38.2471514,-122.0914123,0.0,0.0,PROC
+589,POINT (-121.8523801 38.4565455),89,Solano,Rotteveel Orchards,6183 Reddick Rd,Dixon,CA,95620,almond,shelling,almond,38.4565455,-121.8523801,0.0,0.0,PROC
+590,POINT (-122.7098644 38.3564368),364,Sonoma,Sonoma County Distilling Co,5625 State Farm Dr #18, Rohnert Park,CA,94928,distillery,distillery,distillers grain,38.3564368,-122.7098644,0.0,0.0,PROC
+591,POINT (-122.7160988 38.3400728),286,Sonoma,Foster Farms Dairy,441 Houser St, Cotati,CA,94931,dairy,dairy,dairy,38.3400728,-122.7160988,0.0,0.0,PROC
+592,POINT (-122.6598573 38.3354764),412,Sonoma,Morning Star Packing Co,2327 Chester Dr, Penngrove,CA,94951,freshfrozen,distributor,tomato,38.3354764,-122.6598573,0.0,0.0,PROC
+593,POINT (-122.6629569 38.3209533),543,Sonoma,Buds Custom Meats,7750 Petaluma Hill Rd, Penngrove,CA,94951,redmeat,processor,meat,38.3209533,-122.6629569,0.0,0.0,PROC
+594,POINT (-122.6312867 38.23124464),365,Sonoma,Sweetwater Distillers,611 2nd St, Petaluma,CA,94952,distillery,distillery,distillers grain,38.23124464,-122.6312867,0.0,0.0,PROC
+595,POINT (-122.6644125 38.2705004),326,Sonoma,Griffo Distillery,1320 Scott St, Petaluma,CA,94954,distillery,distillery,distillers grain,38.2705004,-122.6644125,0.0,0.0,PROC
+596,POINT (-122.5918973 38.2338536),484,Sonoma,Petaluma poultry processors,1500 Cader Ln, Petaluma,CA,94954,poultrymeat,poultry,chicken,38.2338536,-122.5918973,0.0,0.0,PROC
+597,POINT (-122.8021464 38.4529795),524,Sonoma,Willowside Meats Inc,3421 Guerneville Rd, Santa Rosa,CA,95401,redmeat,processor,meat,38.4529795,-122.8021464,0.0,0.0,PROC
+598,POINT (-122.821754 38.4041133),366,Sonoma,Spirit Works Distillery,6790 McKinley St, Sebastopol,CA,95472,distillery,distillery,distillers grain,38.4041133,-122.821754,0.0,0.0,PROC
+599,POINT (-122.4573944 38.22770500000001),335,Sonoma,HelloCello Proh Sprits Distillery,23570 Arnold Dr, Sonoma,CA,95476,distillery,distillery,distillers grain,38.227705,-122.4573944,0.0,0.0,PROC
+600,POINT (-122.805047 38.5365766),368,Sonoma,Sonoma Brothers Distilling,7759 Bell Rd, Windsor,CA,95492,distillery,distillery,distillers grain,38.5365766,-122.805047,0.0,0.0,PROC
+601,POINT (-120.843863 37.486441),4,Stanislaus,Tree Nuts LLC, , ,CA,0,almond,shelling,almond,37.486441,-120.843863,0.0,0.0,PROC
+602,POINT (-121.0308718 37.47584431),382,Stanislaus,Darling International Inc,11946 S Carpenter Rd, Crows Landing,CA,95313,fog,meat,fog,37.47584431,-121.0308718,0.0,0.0,PROC
+603,POINT (-120.7019525 37.53948048),5,Stanislaus,Roy Johnson Farms Inc,4618 N Montpelier Rd, Denair,CA,95316,almond,shelling,almond,37.53948048,-120.7019525,0.0,0.0,PROC
+604,POINT (-120.7135727 37.51818576),12,Stanislaus,"JD Almond Farms, Inc.",11900 E Monte Vista Ave,Denair,CA,95316,almond,shelling,almond,37.51818576,-120.7135727,0.0,0.0,PROC
+605,POINT (-120.7116344 37.53240205),85,Stanislaus,Monte Vista Farming Company,5043 N Montpelier Rd,Denair,CA,95316,almond,shelling,almond,37.53240205,-120.7116344,0.0,0.0,PROC
+606,POINT (-120.801093 37.56264552),86,Stanislaus,California Nut Company,5166 S. Sperry Rd.,Denair,CA,95316,almond,shelling,almond,37.56264552,-120.801093,0.0,0.0,PROC
+607,POINT (-120.9388213 37.63807752),42,Stanislaus,Quality Nut Company,17495 Seidner Rd,Escalon,CA,95320,almond,shelling,almond,37.63807752,-120.9388213,0.0,0.0,PROC
+608,POINT (-120.734378 37.622821),18,Stanislaus,Grizzly Nut LLC,1329 Hazeldean Rd.,Hickman,CA,95323,almond,shelling,almond,37.622821,-120.734378,0.0,0.0,PROC
+609,POINT (-120.7556738 37.59699482),280,Stanislaus,Foster Farms Dairy Crystal,2343 Hickman Rd, Hickman,CA,95323,dairy,dairy,dairy,37.59699482,-120.7556738,0.0,0.0,PROC
+610,POINT (-120.7370492 37.60978794),282,Stanislaus,Foster Farms Dairy,1472 Hall Rd, Hickman,CA,95323,dairy,dairy,dairy,37.60978794,-120.7370492,0.0,0.0,PROC
+611,POINT (-120.7983547 37.59484315),9,Stanislaus,"Hudelson Nut Company, Inc.",10665 E Whitmore Ave,Hughson,CA,95326,almond,shelling,almond,37.59484315,-120.7983547,0.0,0.0,PROC
+612,POINT (-120.8359279 37.59460424),99,Stanislaus,California Grown Nut Company,8618 E Whitmore Ave,Hughson,CA,95326,almond,shelling,almond,37.59460424,-120.8359279,0.0,0.0,PROC
+613,POINT (-120.8751957 37.55128943),637,Stanislaus,Alpine Pacific Nut Co,6413 E Keyes Rd,Hughson,CA,95326,walnut,shelling,walnut,37.55128943,-120.8751957,0.0,0.0,PROC
+614,POINT (-120.8066958 37.60404176),10,Stanislaus,"Hughson Nut, Inc.",11173 Mercedes Ave,Livingston,CA,95334,almond,shelling,almond,37.60404176,-120.8066958,0.0,0.0,PROC
+615,POINT (-120.990531 37.62422354),57,Stanislaus,Wholesome Nut Company,240 Bunker Avenue,Modesto,CA,95351,almond,shelling,almond,37.62422354,-120.990531,0.0,0.0,PROC
+616,POINT (-121.0316733 37.65214013),495,Stanislaus,Ziadeh Meat Market,1219 N Carpenter Rd, Modesto,CA,95351,redmeat,processor,meat,37.65214013,-121.0316733,0.0,0.0,PROC
+617,POINT (-120.990531 37.62422354),617,Stanislaus,Wholesome Nut Company Inc,240 Bunker Avenue, Modesto,CA,95351,walnut,shelling,walnut,37.62422354,-120.990531,0.0,0.0,PROC
+619,POINT (-120.9433998 37.63310878),87,Stanislaus,"California Gold Almonds, LLC",518 El Roya Ave.,Modesto,CA,95354,almond,shelling,almond,37.63310878,-120.9433998,0.0,0.0,PROC
+620,POINT (-120.9894347 37.63599297),332,Stanislaus,E  J Gallo Brandy Plant,200 Yosemite Blvd, Modesto,CA,95354,distillery,distillery,distillers grain,37.63599297,-120.9894347,0.0,0.0,PROC
+621,POINT (-120.96879 37.643098),347,Stanislaus,Do Good Distillery,3173 Del Este, Modesto,CA,95354,distillery,distillery,distillers grain,37.643098,-120.96879,0.0,0.0,PROC
+622,POINT (-120.9553351 37.63411024),511,Stanislaus,California Meat Distributing,2300 Hoover Ave,Modesto,CA,95354,redmeat,processor,meat,37.63411024,-120.9553351,0.0,0.0,PROC
+623,POINT (-120.9822793 37.634545),667,Stanislaus,E  J Gallo Winery,600 Yosemite Blvd, Modesto,CA,95354,winery,winery,grape,37.634545,-120.9822793,0.0,0.0,PROC
+624,POINT (-120.9594286 37.63826511),668,Stanislaus,E  J Gallo Winery,2101 Yosemite Blvd, Modesto,CA,95354,winery,winery,grape,37.63826511,-120.9594286,0.0,0.0,PROC
+625,POINT (-120.9760011 37.68083638),66,Stanislaus,PNC,"2909 Coffee Rd., Ste. 12B",Modesto,CA,95355,almond,shelling,almond,37.68083638,-120.9760011,0.0,0.0,PROC
+626,POINT (-120.8925882 37.6594219),13,Stanislaus,Circle M Nut Co.,1217 Root Rd.,Modesto,CA,95357,almond,shelling,almond,37.6594219,-120.8925882,0.0,0.0,PROC
+627,POINT (-120.9114935 37.63506224),145,Stanislaus,FritoLay,305 Codoni Ave, Modesto,CA,95357,bakery,distributor,bakery,37.63506224,-120.9114935,0.0,0.0,PROC
+628,POINT (-121.1222423 37.63833574),20,Stanislaus,Fisher Nut Company,137 North Hart Road,Modesto,CA,95358,almond,shelling,almond,37.63833574,-121.1222423,0.0,0.0,PROC
+629,POINT (-121.0578367 37.67456532),74,Stanislaus,BL Nut Company,3242 North Avenue,Modesto,CA,95358,almond,shelling,almond,37.67456532,-121.0578367,0.0,0.0,PROC
+630,POINT (-121.0301391 37.58829079),75,Stanislaus,"Valley Harvest Nut Co., Inc.",3242 S. Carpenter Road,Turlock,CA,95358,almond,shelling,almond,37.58829079,-121.0301391,0.0,0.0,PROC
+631,POINT (-121.077566 37.67437349),83,Stanislaus,Beckner Ranches,4512 North Ave,Modesto,CA,95358,almond,shelling,almond,37.67437349,-121.077566,0.0,0.0,PROC
+632,POINT (-121.1100701 37.6817201),90,Stanislaus,"Twin Commodities, Inc.",6303 Beckwith Road,Modesto,CA,95358,almond,shelling,almond,37.6817201,-121.1100701,0.0,0.0,PROC
+633,POINT (-121.0486619 37.53822886),92,Stanislaus,"Athwal Almonds, Inc.",6543 Vivian Road,Modesto,CA,95358,almond,shelling,almond,37.53822886,-121.0486619,0.0,0.0,PROC
+634,POINT (-120.9766835 37.60441958),192,Stanislaus,Coca Cola,1733 Morgan Rd, Modesto,CA,95358,beverage,manufacturer,beverage,37.60441958,-120.9766835,0.0,0.0,PROC
+635,POINT (-121.0675108 37.59763414),281,Stanislaus,Foster Farms Dairy,2843 Illinois Ave, Modesto,CA,95358,dairy,dairy,dairy,37.59763414,-121.0675108,0.0,0.0,PROC
+636,POINT (-120.9904075 37.59294632),666,Stanislaus,E  J Gallo Winery,2612 Crows Landing Rd, Modesto,CA,95358,winery,winery,grape,37.59294632,-120.9904075,0.0,0.0,PROC
+637,POINT (-120.8954693 37.776906),634,Stanislaus,Gambini Nut Company Inc,5640 River Road, Oakdale,CA,95361,walnut,shelling,walnut,37.776906,-120.8954693,0.0,0.0,PROC
+638,POINT (-120.8791934 37.48615121),64,Stanislaus,Big Tree Organic Farms,2801 Lassiter Ln,Turlock,CA,95380,almond,shelling,almond,37.48615121,-120.8791934,0.0,0.0,PROC
+639,POINT (-120.8807783 37.4958811),410,Stanislaus,supherb farms,300 Dianne Dr, Turlock,CA,95380,freshfrozen,fresh frozen,vegetable herb,37.4958811,-120.8807783,0.0,0.0,PROC
+640,POINT (-120.7938729 37.63163978),593,Stanislaus,Frazier Nut Farms Inc,10830 Yosemite Blvd., Waterford,CA,95386,walnut,shelling,walnut,37.63163978,-120.7938729,0.0,0.0,PROC
+641,POINT (-121.8640712 39.25164583),102,Sutter,"Tarke Farming, Inc.",9441 W. Butte Rd.,Live Oak,CA,95953,almond,shelling,almond,39.25164583,-121.8640712,0.0,0.0,PROC
+642,POINT (-121.640138 39.18972185),309,Sutter,wilbur packing co,1500 Eager Rd, Live Oak,CA,95953,dehydrator,dehydrator,prune,39.18972185,-121.640138,0.0,0.0,PROC
+643,POINT (-121.6996109 39.28132376),555,Sutter,Gibbs Wild Rice,10400 Billings Rd, Live Oak,CA,95953,rice,distributer,rice,39.28132376,-121.6996109,0.0,0.0,PROC
+644,POINT (-121.6590826 39.18957506),586,Sutter,wilbur packing co,1501 Eager Rd, Live Oak,CA,95953,walnut,shelling,walnut,39.18957506,-121.6590826,0.0,0.0,PROC
+645,POINT (-121.7893042 39.15187432),431,Sutter,North Valley Cotton Gin,9450 Agripark Dr, Sutter,CA,95982,gin,gin,cotton,39.15187432,-121.7893042,0.0,0.0,PROC
+646,POINT (-121.6254726 39.00719645),642,Sutter,Sacramento Packing Inc,833 Tudor Road, Yuba City,CA,95991,walnut,processor,walnut,39.00719645,-121.6254726,0.0,0.0,PROC
+647,POINT (-121.6093855 39.00327618),643,Sutter,Stephens Ranch Inc,8540 Garden Highway, Yuba City,CA,95991,walnut,shelling,walnut,39.00327618,-121.6093855,0.0,0.0,PROC
+648,POINT (-121.621973 38.995493),644,Sutter,Sacramento Valley Walnut Growers LLC,896 O'Banion Road, Yuba City,CA,95991,walnut,shelling,walnut,38.995493,-121.621973,0.0,0.0,PROC
+649,POINT (-121.638873 39.08341984),600,Sutter,Sutter Foods,1500 Reed Rd., Yuba City,CA,95993,walnut,shelling,walnut,39.08341984,-121.638873,0.0,0.0,PROC
+650,POINT (-121.6720222 39.03207673),636,Sutter,Valley Dried Fruit,6215 South George Washington Blvd., Yuba City,CA,95993,walnut,shelling,walnut,39.03207673,-121.6720222,0.0,0.0,PROC
+651,POINT (-122.1702065 39.92558507),255,Tehama,BellCarter Lindsay,981 Fig St, Corning,CA,96021,cannery,cannery,olive,39.92558507,-122.1702065,0.0,0.0,PROC
+652,POINT (-122.1188585 40.10069172),588,Tehama,Crain Walnut Shelling,10695 Decker Ave, Los Molinos,CA,96055,walnut,shelling,walnut,40.10069172,-122.1188585,0.0,0.0,PROC
+653,POINT (-122.1258168 40.1022991),591,Tehama,C R Crain  Sons Inc,10660 Bryne Avenue, Los Molinos,CA,96055,walnut,shelling,walnut,40.1022991,-122.1258168,0.0,0.0,PROC
+655,POINT (-122.1254963 40.1204472),618,Tehama,California Walnut Co inc,24490 Joseph Avenue, Los Molinos,CA,96055,walnut,shelling,walnut,40.1204472,-122.1254963,0.0,0.0,PROC
+656,POINT (-122.0525521 39.92909611),630,Tehama,Andersen  Sons Shelling,4530 Rowles Rd,Vina,CA,96092,walnut,shelling,walnut,39.92909611,-122.0525521,0.0,0.0,PROC
+657,POINT (-122.1548594 40.08165847),647,Tehama,Haleakala Walnut Shelling Inc,9979 Tyler Road,Gerber,CA,96035,walnut,shelling,walnut,40.08165847,-122.1548594,0.0,0.0,PROC
+658,POINT (-119.1423332 36.297052),499,Tulare,Exeter Meats,140 E Palm St, Exeter,CA,93221,redmeat,processor,meat,36.297052,-119.1423332,0.0,0.0,PROC
+659,POINT (-119.3210231 36.00783423),260,Tulare,California Dairies Inc,11894 Ave 120, Pixley,CA,93256,dairy,distributor,dairy,36.00783423,-119.3210231,0.0,0.0,PROC
+660,POINT (-119.105782 36.0802024),60,Tulare,RPC Packing Inc.,26454 Avenue 128,Portervile,CA,93257,almond,shelling,almond,36.0802024,-119.105782,0.0,0.0,PROC
+661,POINT (-119.105782 36.0802024),615,Tulare,RPC Packing Inc,21161 Ave. 160, Porterville,CA,93257,walnut,shelling,walnut,36.0802024,-119.105782,0.0,0.0,PROC
+662,POINT (-119.3568428 36.2408261),427,Tulare,Mid Valley Cotton Growers Inc,626 W Cartmill Ave, Tulare,CA,93274,gin,gin,cotton,36.2408261,-119.3568428,0.0,0.0,PROC
+663,POINT (-119.3141186 36.38539841),417,Tulare,Elbow Gin Inc,12021 Ave 328, Visalia,CA,93291,gin,gin,cotton,36.38539841,-119.3141186,0.0,0.0,PROC
+664,POINT (-119.245033 36.26290341),584,Tulare,Bock Ranch,26069 Rd 148, Visalia,CA,93292,walnut,shelling,walnut,36.26290341,-119.245033,0.0,0.0,PROC
+665,POINT (-119.2692184 36.3305097),614,Tulare,Nutri Nut,2106 E. Main Street, Visalia,CA,93292,walnut,shelling,walnut,36.3305097,-119.2692184,0.0,0.0,PROC
+666,POINT (-119.2251633 36.27880521),620,Tulare,Greggory Lamar Hart,26829 Road 156, Visalia,CA,93292,walnut,shelling,walnut,36.27880521,-119.2251633,0.0,0.0,PROC
+667,POINT (-119.3018924 36.53031955),400,Tulare,wawona frozen foods,12133 Avenue 408, Cutler,CA,93615,freshfrozen,frozen,fruit,36.53031955,-119.3018924,0.0,0.0,PROC
+668,POINT (-120.3236631 38.01504622),673,Tuolumne,Indigeny Reserve,14679 Summers Ln, Sonora,CA,95370,winery,winery,distillers grain,38.01504622,-120.3236631,0.0,0.0,PROC
+669,POINT (-119.2913951 34.3275211),188,Ventura,Pepsi Co,4375 N Ventura Ave, Ventura,CA,93001,beverage,distribution,beverage,34.3275211,-119.2913951,0.0,0.0,PROC
+670,POINT (-119.2906891 34.3208683),352,Ventura,Ventura Spirits Company,3891 N Ventura Ave, Ventura,CA,93001,distillery,distillery,distillers grain,34.3208683,-119.2906891,0.0,0.0,PROC
+671,POINT (-119.189825 34.161105),213,Ventura,Del Monte,Dock 1  Berth 3, Port Hueneme,CA,93041,cannery,cannery,fruit vegetable,34.161105,-119.189825,0.0,0.0,PROC
+672,POINT (-121.7272634 38.54268202),504,Yolo,Superior Farms Inc,1480 Drew Ave, Davis,CA,95618,redmeat,processor,meat,38.54268202,-121.7272634,0.0,0.0,PROC
+673,POINT (-122.017443 38.691535),25,Yolo,Capay Canyon Ranch,14650 Co Rd 87,Esparto,CA,95627,almond,shelling,almond,38.691535,-122.017443,0.0,0.0,PROC
+674,POINT (-122.0152686 38.69922394),604,Yolo,Haag Farm,16200 County Road 87, Esparto,CA,95627,walnut,shelling,walnut,38.69922394,-122.0152686,0.0,0.0,PROC
+675,POINT (-121.5770687 38.5597075),287,Yolo,Foster Farms Dairy,3960 Channel Dr, West Sacramento,CA,95691,dairy,dairy,dairy,38.5597075,-121.5770687,0.0,0.0,PROC
+676,POINT (-121.5418261 38.5693501),305,Yolo,California Fire Roasted LLC,1520 Terminal St, West Sacramento,CA,95691,dehydrator,dehydrator,tomato,38.5693501,-121.5418261,0.0,0.0,PROC
+677,POINT (-121.5420997 38.5649773),661,Yolo,Farmers Rice Cooperative,2224 Industrial Blvd, West Sacramento,CA,95691,warehouse,warehouse,rice,38.5649773,-121.5420997,0.0,0.0,PROC
+678,POINT (-121.7715855 38.67737984),415,Yolo,Morning Star Packing Co,724 Main St 202, Woodland,CA,95695,freshfrozen,distributor,tomato,38.67737984,-121.7715855,0.0,0.0,PROC
+679,POINT (-121.760786 38.6841282),306,Yolo,Culinary Farms,1244 E Beamer St, Woodland,CA,95776,dehydrator,dehydrator,tomatoes,38.6841282,-121.760786,0.0,0.0,PROC
+680,POINT (-121.5609161 39.10457329),361,Yuba,CaliShine Distillery Co,5216 Arboga Rd, Olivehurst,CA,95961,distillery,distillery,distillers grain,39.10457329,-121.5609161,0.0,0.0,PROC
+681,POINT (-121.506442 39.01602804),561,Yuba,Rue and Forsman Ranc Inc,2640 Hoffman Rd, Olivehurst,CA,95961,rice,distributer,rice,39.01602804,-121.506442,0.0,0.0,PROC
